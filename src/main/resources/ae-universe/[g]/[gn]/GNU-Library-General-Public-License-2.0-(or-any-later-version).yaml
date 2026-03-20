@@ -29,6 +29,8 @@ alternativeNames:
   - "LGPL-2+"
   - "LGPL2+"
   - "LGPL-2.0-or-later"
+  - "LGPL 2 or later"
+  - "LGPL 2.0 or later"
   - "GNU Library General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version"
   - "GNU Lesser General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version"
   - "GNU Lesser General Public License >= 2.0"
