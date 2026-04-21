@@ -15,6 +15,11 @@ alternativeNames:
   - "Plexus License"
   - "PLEXUS LICENSE"
   - "PLEXUS License"
+  - "Plexus Classworlds License"
+  - "Dom4j License"
+  - "DOM4j License"
+  - "dom4j License"
+  - "DOM4j-License"
 
 otherIds: 
   - "scancode:classworlds"

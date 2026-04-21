@@ -13,6 +13,8 @@ openCoDEStatus: "approved"
 
 alternativeNames:
   - "APAFML"
+  - "Adobe Postscript AFM License"
+  - "Adobe-AFM"
 
 otherIds: 
   - "scancode:apafml"

@@ -11,7 +11,7 @@ canonicalNameHistory:
 
 alternativeNames:
   - "Boehm-GC"
-  - "Boehm-Demers-Weiser GC License"
+  - "GC License"
 
 otherIds: 
   - "scancode:mozilla-gc"

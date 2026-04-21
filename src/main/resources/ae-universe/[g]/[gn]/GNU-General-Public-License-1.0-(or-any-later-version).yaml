@@ -20,6 +20,8 @@ alternativeNames:
   - "GPL version 1.0 or later"
   - "GNU General Public License as published by the Free Software Foundation; either version 1, or (at your option) any later version"
   - "GNU General Public License, version 1 or later"
+  - "GNU General Public License v1.0 or later"
+  - "GNU General Public License 1.0 or later"
 
 otherIds: 
   - "scancode:gpl-1.0-plus"

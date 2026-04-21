@@ -2,12 +2,16 @@
 # SPDX-License-Identifier: CC-BY-4.0
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
-canonicalName: "PayPal SDK License"
+canonicalName: "PayPal SDK License 2013-2016"
 category: "PayPal SDK"
 shortName: "PayPal-SDK"
 
+canonicalNameHistory:
+  - "PayPal SDK License"
+
 alternativeNames:
   - "PayPal SDK License"
+  - "PayPal, Inc. SDK License"
 
 otherIds: 
   - "scancode:paypal-sdk-2013-2016"

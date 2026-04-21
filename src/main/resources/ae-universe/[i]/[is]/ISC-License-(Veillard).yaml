@@ -13,6 +13,7 @@ canonicalNameHistory:
 alternativeNames:
   - "ISC-Veillard"
   - "ISC Veillard variant"
+  - "MIT Veillard Variant"
 
 otherIds: 
   - "scancode:mit-veillard-variant"

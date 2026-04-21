@@ -8,5 +8,8 @@ spdxIdentifier: "MIT-CMU"
 
 openCoDEStatus: "approved"
 
+alternativeNames:
+  - "The Python Imaging Library (PIL) License"
+
 otherIds: 
   - "scancode:cmu-uc"

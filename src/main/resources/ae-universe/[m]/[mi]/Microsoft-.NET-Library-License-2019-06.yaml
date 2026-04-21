@@ -9,5 +9,9 @@ shortName: "MS-NET-Library-2019-06"
 canonicalNameHistory:
   - "Microsoft Software License (.NET Library 2019-06)"
 
+alternativeNames:
+  - "Microsoft .NET Library"
+  - "MS .NET Library License"
+
 otherIds: 
   - "scancode:ms-net-library-2019-06"

@@ -9,6 +9,7 @@ spdxIdentifier: "Python-2.0.1"
 alternativeNames:
   - "Python-2.0.1"
   - "Python License 2.0.1"
+  - "Python Software Foundation License v2.0.1"
 
 otherIds: 
   - "scancode:python-2.0.1"

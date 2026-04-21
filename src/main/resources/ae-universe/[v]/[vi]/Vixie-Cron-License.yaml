@@ -8,6 +8,7 @@ spdxIdentifier: "Vixie-Cron"
 
 alternativeNames:
   - "Vixie Cron License"
+  - "Vixie-Cron License"
 
 otherIds: 
   - "scancode:vixie-cron"

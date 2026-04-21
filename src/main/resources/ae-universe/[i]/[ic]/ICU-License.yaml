@@ -10,6 +10,7 @@ openCoDEStatus: "approved"
 
 alternativeNames:
   - "ICU License"
+  - "Early SLF4J License"
 
 otherIds: 
   - "scancode:x11"
