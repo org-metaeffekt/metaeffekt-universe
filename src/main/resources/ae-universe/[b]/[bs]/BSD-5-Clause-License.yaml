@@ -10,8 +10,6 @@ openCoDEStatus: "(approved)"
 openCoDESimilarLicenseId: "Apache-1.1"
 
 alternativeNames:
-  - "IAIK License"
-  - "RELAXNG License"
   - "5-Clause BSD License"
   - "5-clause BSD"
   - "BSD-5"
@@ -29,5 +27,4 @@ alternativeNames:
   - "BSD (5-clause)"
   - "BSD License (5-clause license)"
   - "is under a 5 clause BSD license"
-  - "The OpenSymphony Software License, Version 1.1 (Oracle)"
 
