@@ -20,4 +20,5 @@ alternativeNames:
 
 otherIds: 
   - "scancode:cua-opl-1.0"
+  - "osi-deprecated:cuaoffice"
   - "osi:CUA-OPL-1.0"

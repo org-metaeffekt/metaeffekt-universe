@@ -2,16 +2,16 @@
 
 Project providing insights on the {metæffekt} license database covering
 
-* 3087 modeled license terms,
-* 215 exceptions,
+* 3101 modeled license terms,
+* 217 exceptions,
 * 15 modifiers
 * 2 restrictions
-* 314 specific and commonly used license expressions, and
+* 326 specific and commonly used license expressions, and
 * 63 consolidated markers
 
-as of April 26th 2026.
+as of May 14th 2026.
 
-A total of 3319 differentiated terms, modifiers, restrictions and exceptions!
+A total of 3335 differentiated terms, modifiers, restrictions and exceptions!
 
 The following links provide letter-specific overviews on the license information:
 

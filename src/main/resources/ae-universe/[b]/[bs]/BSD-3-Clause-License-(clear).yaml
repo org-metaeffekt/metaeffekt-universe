@@ -14,8 +14,9 @@ openCoDEStatus: "not approved"
 alternativeNames:
   - "BSD-3-Clause-Clear"
   - "BSD 3-Clause Clear License"
-  - "Clear BSD License"
   - "BSD-3-Clause Clear License"
+  - "Clear BSD"
+  - "Clear BSD License"
 
 otherIds: 
   - "scancode:clear-bsd"

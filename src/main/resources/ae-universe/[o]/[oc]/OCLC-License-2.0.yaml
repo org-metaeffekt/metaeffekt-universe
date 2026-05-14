@@ -19,3 +19,4 @@ alternativeNames:
 otherIds: 
   - "scancode:oclc-2.0"
   - "osi:OCLC-2.0"
+  - "osi-deprecated:oclc2"

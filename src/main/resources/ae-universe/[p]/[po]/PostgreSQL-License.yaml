@@ -19,3 +19,4 @@ alternativeNames:
 otherIds: 
   - "scancode:postgresql"
   - "osi:PostgreSQL"
+  - "osi-deprecated:postgresql"

@@ -17,3 +17,4 @@ alternativeNames:
 otherIds: 
   - "scancode:sleepycat"
   - "osi:Sleepycat"
+  - "osi-deprecated:sleepycat"

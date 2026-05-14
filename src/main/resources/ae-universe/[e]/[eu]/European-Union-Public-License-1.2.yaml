@@ -30,3 +30,4 @@ alternativeNames:
 otherIds: 
   - "scancode:eupl-1.2"
   - "osi:EUPL-1.2"
+  - "osi-deprecated:eupl-1-2"

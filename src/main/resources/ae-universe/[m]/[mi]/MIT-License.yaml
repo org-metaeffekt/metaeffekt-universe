@@ -50,3 +50,4 @@ alternativeNames:
 otherIds: 
   - "scancode:mit"
   - "osi:MIT"
+  - "osi-deprecated:mit"

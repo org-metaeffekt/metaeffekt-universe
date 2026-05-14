@@ -29,3 +29,4 @@ alternativeNames:
 otherIds: 
   - "scancode:openldap-2.8"
   - "osi:OLDAP-2.8"
+  - "osi-deprecated:oldap-2-8"

@@ -15,7 +15,7 @@ openCoDEStatus: "approved"
 alternativeNames:
   - "Pillow is licensed under the open source MIT-CMU License"
   - "ElementTree License"
-  - "The Python Imaging Library (PIL) License"
+  - "Python Imaging Library (PIL) License"
 
 otherIds: 
   - "scancode:secret-labs-2011"

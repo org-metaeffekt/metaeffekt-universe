@@ -18,3 +18,4 @@ alternativeNames:
 otherIds: 
   - "scancode:mit-old-style-no-advert"
   - "osi:NTP"
+  - "osi-deprecated:ntp-license"

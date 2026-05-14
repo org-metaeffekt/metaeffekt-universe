@@ -17,3 +17,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:x11"
+  - "osi-deprecated:icu-license"

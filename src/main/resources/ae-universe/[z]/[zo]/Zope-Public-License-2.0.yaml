@@ -22,3 +22,4 @@ alternativeNames:
 otherIds: 
   - "scancode:zpl-2.0"
   - "osi:ZPL-2.0"
+  - "osi-deprecated:zpl-2-0"

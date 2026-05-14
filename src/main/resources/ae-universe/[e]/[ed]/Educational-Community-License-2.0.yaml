@@ -21,3 +21,4 @@ alternativeNames:
 otherIds: 
   - "scancode:ecl-2.0"
   - "osi:ECL-2.0"
+  - "osi-deprecated:ecl-2-0"

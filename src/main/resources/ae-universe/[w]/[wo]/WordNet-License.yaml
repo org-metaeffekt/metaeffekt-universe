@@ -17,3 +17,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:wordnet"
+  - "osi-deprecated:wordnet"

@@ -21,3 +21,4 @@ alternativeNames:
 otherIds: 
   - "scancode:sybase"
   - "osi:Watcom-1.0"
+  - "osi-deprecated:sybase"

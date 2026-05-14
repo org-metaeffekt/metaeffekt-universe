@@ -19,3 +19,4 @@ alternativeNames:
 otherIds: 
   - "scancode:ngpl"
   - "osi:NGPL"
+  - "osi-deprecated:nethack"

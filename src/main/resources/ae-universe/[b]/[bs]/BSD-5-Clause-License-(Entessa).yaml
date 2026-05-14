@@ -25,3 +25,4 @@ alternativeNames:
 otherIds: 
   - "scancode:entessa-1.0"
   - "osi:Entessa"
+  - "osi-deprecated:entessa"

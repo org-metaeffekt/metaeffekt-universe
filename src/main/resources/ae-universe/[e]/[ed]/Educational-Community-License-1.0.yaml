@@ -20,4 +20,5 @@ alternativeNames:
 
 otherIds: 
   - "scancode:ecl-1.0"
+  - "osi-deprecated:ecl-1-0"
   - "osi:ECL-1.0"

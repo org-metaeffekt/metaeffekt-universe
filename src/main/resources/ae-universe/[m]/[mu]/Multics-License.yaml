@@ -25,3 +25,4 @@ alternativeNames:
 otherIds: 
   - "scancode:multics"
   - "osi:Multics"
+  - "osi-deprecated:multics-txt"

@@ -38,4 +38,5 @@ alternativeNames:
 
 otherIds: 
   - "scancode:epl-1.0"
+  - "osi-deprecated:epl-1-0"
   - "osi:EPL-1.0"

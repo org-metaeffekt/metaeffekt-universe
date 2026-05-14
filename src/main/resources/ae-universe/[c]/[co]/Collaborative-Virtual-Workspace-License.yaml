@@ -14,3 +14,4 @@ alternativeNames:
 otherIds: 
   - "scancode:cvwl"
   - "osi:CVW"
+  - "osi-deprecated:cvw"

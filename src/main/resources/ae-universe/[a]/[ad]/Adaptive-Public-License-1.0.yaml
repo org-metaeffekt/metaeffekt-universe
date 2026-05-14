@@ -26,3 +26,4 @@ alternativeNames:
 otherIds: 
   - "scancode:adapt-1.0"
   - "osi:APL-1.0"
+  - "osi-deprecated:apl1-0"

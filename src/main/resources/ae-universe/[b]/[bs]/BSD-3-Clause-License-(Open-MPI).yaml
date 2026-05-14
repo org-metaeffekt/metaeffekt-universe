@@ -14,3 +14,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:bsd-3-clause-open-mpi"
+  - "osi-deprecated:bsd-3-clause-open-mpi"

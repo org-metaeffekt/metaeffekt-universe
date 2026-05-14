@@ -18,3 +18,4 @@ alternativeNames:
 otherIds: 
   - "scancode:eu-datagrid"
   - "osi:EUDatagrid"
+  - "osi-deprecated:eudatagrid"

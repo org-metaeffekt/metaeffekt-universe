@@ -21,4 +21,5 @@ alternativeNames:
 
 otherIds: 
   - "scancode:intel-bsd-export-control"
+  - "osi-deprecated:intel"
   - "osi:Intel"

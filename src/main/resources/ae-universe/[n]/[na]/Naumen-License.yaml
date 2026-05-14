@@ -20,3 +20,4 @@ alternativeNames:
 otherIds: 
   - "scancode:naumen"
   - "osi:Naumen"
+  - "osi-deprecated:naumen"

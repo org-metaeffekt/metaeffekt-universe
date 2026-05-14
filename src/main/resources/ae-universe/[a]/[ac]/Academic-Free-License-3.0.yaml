@@ -20,3 +20,4 @@ alternativeNames:
 otherIds: 
   - "scancode:afl-3.0"
   - "osi:AFL-3.0"
+  - "osi-deprecated:afl-3-0"

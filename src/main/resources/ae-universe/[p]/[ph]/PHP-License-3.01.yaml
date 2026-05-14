@@ -22,3 +22,4 @@ alternativeNames:
 otherIds: 
   - "scancode:php-3.01"
   - "osi:PHP-3.01"
+  - "osi-deprecated:php-3-01"

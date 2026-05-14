@@ -25,3 +25,4 @@ alternativeNames:
 otherIds: 
   - "scancode:bsd-1-clause"
   - "osi:BSD-1-Clause"
+  - "osi-deprecated:bsd-1-clause"

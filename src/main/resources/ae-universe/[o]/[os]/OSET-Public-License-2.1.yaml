@@ -20,3 +20,4 @@ alternativeNames:
 otherIds: 
   - "scancode:oset-pl-2.1"
   - "osi:OPL-2.1"
+  - "osi-deprecated:opl-2-1"

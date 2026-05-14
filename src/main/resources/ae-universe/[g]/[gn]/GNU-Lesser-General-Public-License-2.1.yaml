@@ -70,3 +70,4 @@ alternativeNames:
 otherIds: 
   - "scancode:lgpl-2.1"
   - "osi:LGPL-2.1"
+  - "osi-deprecated:lgpl-2-1"

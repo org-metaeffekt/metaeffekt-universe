@@ -19,3 +19,4 @@ alternativeNames:
 otherIds: 
   - "scancode:josl-1.0"
   - "osi:JOSL-1.0"
+  - "osi-deprecated:jabberpl"

@@ -25,3 +25,4 @@ alternativeNames:
 otherIds: 
   - "scancode:zlib"
   - "osi:Zlib"
+  - "osi-deprecated:zlib"

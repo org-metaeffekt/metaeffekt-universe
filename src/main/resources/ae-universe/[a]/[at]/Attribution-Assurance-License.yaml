@@ -17,3 +17,4 @@ alternativeNames:
 otherIds: 
   - "scancode:attribution"
   - "osi:attribution"
+  - "osi-deprecated:attribution"

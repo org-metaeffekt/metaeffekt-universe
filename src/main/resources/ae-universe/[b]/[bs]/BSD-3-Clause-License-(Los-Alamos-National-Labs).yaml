@@ -12,3 +12,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:lanl-bsd-3-variant"
+  - "osi-deprecated:los-alamos-national-labs-bsd-3-variant"

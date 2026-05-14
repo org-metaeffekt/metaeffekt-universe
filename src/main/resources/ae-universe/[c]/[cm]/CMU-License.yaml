@@ -10,3 +10,4 @@ openCoDEStatus: "approved"
 
 otherIds: 
   - "scancode:cmu-uc"
+  - "osi-deprecated:cmu-license"

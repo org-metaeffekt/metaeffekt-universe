@@ -28,3 +28,4 @@ alternativeNames:
 otherIds: 
   - "scancode:eupl-1.1"
   - "osi:EUPL-1.1"
+  - "osi-deprecated:eupl-1-1"

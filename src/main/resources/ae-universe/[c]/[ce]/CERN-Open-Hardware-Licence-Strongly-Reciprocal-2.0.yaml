@@ -16,3 +16,4 @@ alternativeNames:
 otherIds: 
   - "scancode:cern-ohl-s-2.0"
   - "osi:CERN-OHL-S-2.0"
+  - "osi-deprecated:cern-ohl-s"

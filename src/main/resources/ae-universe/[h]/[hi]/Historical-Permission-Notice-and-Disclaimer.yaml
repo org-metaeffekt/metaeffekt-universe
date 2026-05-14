@@ -19,3 +19,4 @@ alternativeNames:
 otherIds: 
   - "scancode:historical"
   - "osi:HPND"
+  - "osi-deprecated:historical"

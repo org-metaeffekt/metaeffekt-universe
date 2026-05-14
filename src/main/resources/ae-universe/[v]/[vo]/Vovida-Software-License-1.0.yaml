@@ -20,3 +20,4 @@ alternativeNames:
 otherIds: 
   - "scancode:vsl-1.0"
   - "osi:VSL-1.0"
+  - "osi-deprecated:vovidapl"
