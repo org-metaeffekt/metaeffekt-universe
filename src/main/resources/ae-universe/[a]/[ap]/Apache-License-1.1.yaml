@@ -30,4 +30,4 @@ alternativeNames:
 otherIds: 
   - "scancode:apache-1.1"
   - "osi:Apache-1.1"
-  - "osi-deprecated:apache-1-1"
+  - "osi-spdx:apache-1.1"
