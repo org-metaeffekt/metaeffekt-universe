@@ -8,6 +8,8 @@ spdxIdentifier: "MIT-CMU"
 
 openCoDEStatus: "approved"
 
+osiStatus: "approved"
+
 otherIds: 
   - "scancode:cmu-uc"
-  - "osi-deprecated:cmu-license"
+  - "osi:MIT-CMU"

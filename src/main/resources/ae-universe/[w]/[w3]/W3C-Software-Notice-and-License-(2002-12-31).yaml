@@ -19,4 +19,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:w3c"
-  - "osi:W3C"
+  - "osi-spdx:W3C"

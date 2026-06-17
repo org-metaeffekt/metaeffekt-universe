@@ -23,5 +23,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:mpl-1.0"
-  - "osi-deprecated:mpl-1-0"
   - "osi:MPL-1.0"

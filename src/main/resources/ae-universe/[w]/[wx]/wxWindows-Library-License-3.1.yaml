@@ -25,4 +25,4 @@ alternativeNames:
 otherIds: 
   - "scancode:wxwindows"
   - "osi:WXwindows"
-  - "osi-deprecated:wxwindows"
+  - "osi-spdx:wxWindows"

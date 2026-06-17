@@ -21,5 +21,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:osl-2.1"
-  - "osi-deprecated:osl-2-1"
   - "osi:OSL-2.1"

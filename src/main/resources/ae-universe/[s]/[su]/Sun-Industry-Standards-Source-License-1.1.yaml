@@ -20,5 +20,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:sun-sissl-1.1"
-  - "osi-deprecated:sissl"
   - "osi:SISSL"

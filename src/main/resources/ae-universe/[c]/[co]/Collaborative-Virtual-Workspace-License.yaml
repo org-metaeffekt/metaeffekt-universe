@@ -6,6 +6,7 @@ canonicalName: "Collaborative Virtual Workspace License"
 category: "Collaborative Virtual Workspace License"
 shortName: "CVWL"
 
+osiStatus: "approved"
 osiCategory: "voluntarily retired"
 
 alternativeNames:
@@ -14,4 +15,3 @@ alternativeNames:
 otherIds: 
   - "scancode:cvwl"
   - "osi:CVW"
-  - "osi-deprecated:cvw"

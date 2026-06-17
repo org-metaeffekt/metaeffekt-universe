@@ -16,4 +16,4 @@ alternativeNames:
 otherIds: 
   - "scancode:simpl-2.0"
   - "osi:SimPL-2.0"
-  - "osi-deprecated:simpl-2-0-html"
+  - "osi-spdx:SiMPL-2.0"

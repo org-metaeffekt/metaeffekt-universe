@@ -12,9 +12,11 @@ canonicalNameHistory:
 
 openCoDEStatus: "approved"
 
+osiStatus: "approved"
+
 alternativeNames:
   - "Wordnet License"
 
 otherIds: 
   - "scancode:wordnet"
-  - "osi-deprecated:wordnet"
+  - "osi:WordNet"

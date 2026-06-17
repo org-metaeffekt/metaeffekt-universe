@@ -71,4 +71,4 @@ alternativeNames:
 otherIds: 
   - "scancode:gpl-3.0"
   - "osi:GPL-3.0"
-  - "osi-deprecated:gpl-3-0"
+  - "osi-spdx:GPL-3.0-only"

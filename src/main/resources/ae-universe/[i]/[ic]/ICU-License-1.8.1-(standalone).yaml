@@ -11,10 +11,12 @@ canonicalNameHistory:
 
 openCoDEStatus: "approved"
 
+osiStatus: "approved"
+
 alternativeNames:
   - "ICU License"
   - "Early SLF4J License"
 
 otherIds: 
   - "scancode:x11"
-  - "osi-deprecated:icu-license"
+  - "osi:ICU"

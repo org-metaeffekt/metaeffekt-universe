@@ -24,4 +24,4 @@ alternativeNames:
 otherIds: 
   - "scancode:upl-1.0"
   - "osi:UPL"
-  - "osi-deprecated:upl"
+  - "osi-spdx:UPL-1.0"

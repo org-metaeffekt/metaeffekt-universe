@@ -21,5 +21,5 @@ alternativeNames:
 
 otherIds: 
   - "scancode:bsd-plus-patent"
-  - "osi:BSDplusPatent"
-  - "osi-deprecated:bsdpluspatent"
+  - "osi:bsd-2-clause-patent"
+  - "osi-spdx:BSD-2-Clause-Patent"
