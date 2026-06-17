@@ -20,3 +20,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:apafml"
+  - "fedora:AdobePostscriptAFM"

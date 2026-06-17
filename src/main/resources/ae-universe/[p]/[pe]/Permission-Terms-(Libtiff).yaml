@@ -21,3 +21,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:x11-tiff"
+  - "fedora:libtiff"

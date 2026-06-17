@@ -25,3 +25,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:zlib-acknowledgement"
+  - "fedora:ZlibWithAcknowledgement"
