@@ -10,9 +10,12 @@ openCoDEStatus: "approved"
 
 alternativeNames:
   - "OFL-1.0-RFN"
+  - "ofl-1.0-rfn"
   - "SIL Open Font License 1.0 with Reserved Font Name"
   - "is a Reserved Font Name for this Font Software"
   - "SIL Open Font License 1.0 (reserved font name)"
+  - "OFL 1.0 Reserved Font Name"
+  - "Open Font License v1.0 with Reserved Font Name"
 
 otherIds: 
   - "scancode:ofl-1.0-rfn"

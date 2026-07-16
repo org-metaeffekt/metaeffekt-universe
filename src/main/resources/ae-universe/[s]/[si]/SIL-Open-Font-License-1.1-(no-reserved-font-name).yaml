@@ -11,6 +11,21 @@ openCoDEStatus: "approved"
 osiStatus: "approved"
 osiCategory: "special purpose"
 
+alternativeNames:
+  - "Open Font License 1.1 without reserved font"
+  - "SIl-OFL-1.1-no-reserved-font"
+  - "OFL, Version 1.1, No Reserved Font"
+  - "OFL, 1.1: No Reserved Font"
+  - "OFL 1.1 No Reserved Font"
+  - "OFL-1.1 No Reserved Font"
+  - "SIL OPEN FONT LICENSE Version 1.1 NO RESERVED FONT"
+  - "SIL Open Font License, Version 1.1 no reserved font"
+  - "Open Font License v1.1 no reserved font"
+  - "SIL Open Font License V1.1 no reserved font"
+  - "ofl-1.1-no-rfn"
+  - "OFL 1.1 no Reserved Font Name"
+  - "SIL Open Font License 1.1 with no Reserved Font Name"
+
 otherIds: 
   - "scancode:ofl-1.1-no-rfn"
   - "osi:OFL-1.1"
