@@ -2,10 +2,11 @@
 # SPDX-License-Identifier: CC-BY-4.0
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
-canonicalName: "CogVideoX License"
-category: "CogVideoX"
-shortName: "CogVideoX"
+canonicalName: "MERaLiON Public License"
+category: "MERaLiON"
+shortName: "MERaLiON-Public"
 
 alternativeNames:
-  - "cogvideox license"
+  - "MERALION PUBLIC LICENSE"
+  - "MERaLiON Public Licence"
 

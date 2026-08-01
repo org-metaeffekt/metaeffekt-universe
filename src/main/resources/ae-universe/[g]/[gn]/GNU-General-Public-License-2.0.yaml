@@ -67,6 +67,10 @@ alternativeNames:
   - "GNU General Public License (2)"
   - "GNU General Public License (v2)"
   - "GNU 通用公共许可证 v.2"
+  - "http://www.gnu.org/licenses/old-licenses/gpl-2.0"
+  - "https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt"
+  - "http://www.gnu.org/licenses/gpl-2.0"
+  - "https://www.gnu.org/licenses/gpl-2.0.txt"
 
 otherIds: 
   - "scancode:gpl-2.0"

@@ -2,9 +2,9 @@
 # SPDX-License-Identifier: CC-BY-4.0
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
-canonicalName: "Apache Due Credit Variant"
+canonicalName: "Apache License (Due Credit)"
 category: "Apache Due Credit"
-shortName: "apache-due-credit"
+shortName: "Apache-Due-Credit"
 
 alternativeNames:
   - "Apache Due Credit Variant"

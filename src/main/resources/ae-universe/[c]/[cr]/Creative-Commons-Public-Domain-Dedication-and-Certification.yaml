@@ -2,12 +2,12 @@
 # SPDX-License-Identifier: CC-BY-4.0
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
-canonicalName: "Creative Commons PDDC"
+canonicalName: "Creative Commons Public Domain Dedication and Certification"
 category: "CC-PDDC"
 spdxIdentifier: "CC-PDDC"
 
 canonicalNameHistory:
-  - "Creative Commons Public Domain Dedication and Certification"
+  - "Creative Commons PDDC"
 
 openCoDEStatus: "approved"
 

@@ -2,12 +2,13 @@
 # SPDX-License-Identifier: CC-BY-4.0
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
-canonicalName: "Canonical Entity Contributor License Agreement (variant 1.2)"
-category: "Canonical Entity Contributor License Agreement"
-shortName: "canonical-ha-cla-any-e-1.2"
+canonicalName: "Canonical Entity Contributor License Agreement 1.2"
+category: "Canonical Entity Contributor"
+shortName: "canonical-E-CLA-any-1.2"
 
 canonicalNameHistory:
   - "Canonical Entity Contributor License Agreement v1.2"
+  - "Canonical Entity Contributor License Agreement (variant 1.2)"
 
 alternativeNames:
   - "Canonical Entity Contributor License Agreement v1.2"

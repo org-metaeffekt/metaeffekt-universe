@@ -17,10 +17,17 @@ alternativeNames:
   - "GNU General Public License, Version 1"
   - "GNU General Public License, version 1"
   - "GPL 1.0"
+  - "gpl 1.0"
+  - "GPL v1.0"
+  - "gpl v1.0"
   - "GNU General Public License (v1)"
   - "GNU GENERAL PUBLIC LICENSE Version 1"
   - "GNU General Public License v1.0 only"
   - "GPL-1.0"
+  - "gpl-1.0"
+  - "GPL-v1.0"
+  - "gpl-v1.0"
+  - "GPLv1.0"
 
 otherIds: 
   - "scancode:gpl-1.0"

@@ -2,7 +2,10 @@
 # SPDX-License-Identifier: CC-BY-4.0
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
-canonicalName: "AI Pubs Research-Use Rail-M License"
-category: "AI Pubs Research-Use"
-shortName: "AI-Pubs-Research-Use-Rail-M"
+canonicalName: "AI Pubs Research-Use RAIL-M License"
+category: "AI Pubs"
+shortName: "AI-Pubs-Research-Use-RAIL-M"
+
+canonicalNameHistory:
+  - "AI Pubs Research-Use Rail-M License"
 

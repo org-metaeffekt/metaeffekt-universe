@@ -32,6 +32,8 @@ alternativeNames:
   - "2-Clause BSD license"
   - "2 clause BSD license"
   - "2-clause BSD licenses"
+  - "Simplified BSD License"
+  - "this file is copyrighted under the BSD-license for buildsystem files of KDE"
 
 otherIds: 
   - "scancode:bsd-simplified"

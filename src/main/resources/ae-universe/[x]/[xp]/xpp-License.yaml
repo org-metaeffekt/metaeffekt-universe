@@ -2,9 +2,12 @@
 # SPDX-License-Identifier: CC-BY-4.0
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
-canonicalName: "xpp License"
-category: "xpp"
+canonicalName: "XPP License"
+category: "XPP"
 spdxIdentifier: "xpp"
+
+canonicalNameHistory:
+  - "xpp License"
 
 openCoDEStatus: "approved"
 
