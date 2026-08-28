@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "sqlitestudio OpenSSL Exception"
+category: "sqlitestudio OpenSSL Exception"
+spdxIdentifier: "sqlitestudio-OpenSSL-Exception"
+
+type: "exception"
+
+alternativeNames:
+  - "sqlitestudio OpenSSL exception"
+  - "sqlitestudio-OpenSSL-exception"
+
+otherIds: 
+  - "scancode:sqlitestudio-openssl-exception"

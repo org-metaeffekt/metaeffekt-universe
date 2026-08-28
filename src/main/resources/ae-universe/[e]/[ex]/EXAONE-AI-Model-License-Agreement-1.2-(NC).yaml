@@ -6,9 +6,15 @@ canonicalName: "EXAONE AI Model License Agreement 1.2 (NC)"
 category: "EXAONE AI Model License Agreement"
 shortName: "EXAONE-AI-Model-1.2-NC"
 
+canonicalNameHistory:
+  - "EXAONE AI Model License Agreement 1.2 - NC"
+
 alternativeNames:
   - "EXAONE AI Model License Agreement 1.2 - NC"
   - "EXAONE AI Model License Agreement 1.2 (NC)"
+  - "EXAONE AI Model License Agreement (NC) 1.2"
   - "EXAONE-AI-Model-1.2-NC"
   - "exaone-ai-model-1.2-nc"
 
+otherIds: 
+  - "scancode:exaone-ai-model-1.2-nc"

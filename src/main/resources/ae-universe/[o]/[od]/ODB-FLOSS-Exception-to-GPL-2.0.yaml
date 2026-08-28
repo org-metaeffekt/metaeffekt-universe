@@ -1,0 +1,18 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "ODB FLOSS Exception to GPL 2.0"
+category: "ODB FLOSS Exception"
+shortName: "ODB-FLOSS-Exception-2.0"
+
+type: "exception"
+
+alternativeNames:
+  - "DB FLOSS Exception to GPL 2.0"
+  - "odb-floss-exception-2.0"
+  - "ODB-FLOSS-Exception-2.0"
+  - "ODB FLOSS Exception"
+
+otherIds: 
+  - "scancode:odb-floss-exception-2.0"

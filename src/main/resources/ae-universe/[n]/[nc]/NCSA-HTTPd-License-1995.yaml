@@ -4,10 +4,12 @@
 
 canonicalName: "NCSA HTTPd License 1995"
 category: "NCSA HTTPd License"
-shortName: "ncsa-httpd-1995"
+shortName: "NCSA-HTTPd-1995"
 
 alternativeNames:
-  - "NCSA HTTPd License 1995"
+  - "NCSA HTTPd License"
+  - "ncsa-httpd-1995"
+  - "NCSA-HTTPd-1995"
 
 otherIds: 
   - "scancode:ncsa-httpd-1995"
