@@ -6,6 +6,9 @@ canonicalName: "bzip2 License"
 category: "bzip2"
 shortName: "bzip2"
 
+openCoDEStatus: "(approved)"
+openCoDESimilarLicenseId: "bzip2-1.0.6"
+
 unspecific: true
 
 alternativeNames:
@@ -13,5 +16,4 @@ alternativeNames:
   - "bzip2 license"
   - "bzip2-license"
   - "Bzip2 License"
-  - "bzip2-UNSPECIFIED"
 
