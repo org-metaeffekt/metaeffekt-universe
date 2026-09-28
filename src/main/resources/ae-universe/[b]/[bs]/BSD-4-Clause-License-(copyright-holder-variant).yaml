@@ -9,5 +9,8 @@ shortName: "BSD-4-Clause-copyright"
 canonicalNameHistory:
   - "BSD 4-Clause License (copyright variant)"
 
+openCoDEStatus: "(approved)"
+openCoDESimilarLicenseId: "BSD-4-Clause"
+
 otherIds: 
   - "scancode:bsd-original"

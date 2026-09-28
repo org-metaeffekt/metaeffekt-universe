@@ -1,0 +1,23 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "CERN Open Hardware License 2.0 (weakly reciprocal)"
+category: "CERN OHL weakly reciprocal"
+shortName: "CERN-OHL-2.0-weakly-reciprocal"
+spdxIdentifier: "CERN-OHL-W-2.0"
+
+canonicalNameHistory:
+  - "CERN Open Hardware Licence Weakly Reciprocal 2.0"
+
+osiStatus: "approved"
+osiCategory: "special purpose"
+
+alternativeNames:
+  - "cern-ohl-w-2.0"
+  - "CERN Open Hardware Licence Version 2 - Weakly Reciprocal"
+  - "CERN Open Hardware Licence Weakly Reciprocal 2.0"
+
+otherIds: 
+  - "scancode:cern-ohl-w-2.0"
+  - "osi:CERN-OHL-W-2.0"

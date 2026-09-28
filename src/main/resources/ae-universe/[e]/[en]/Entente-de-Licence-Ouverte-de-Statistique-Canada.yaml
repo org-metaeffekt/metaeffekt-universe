@@ -3,11 +3,13 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Entente de Licence Ouverte de Statistique Canada"
-category: "Entente de Licence Ouverte de Statistique Canada"
-shortName: "Scola-fr"
+category: "Entente Ouverte de Statistique Canada"
+shortName: "SCOLA-FR"
 
 alternativeNames:
   - "Entente de licence ouverte de Statistique Canada"
+  - "Entente de Licence Ouverte de Statistique Canada"
+  - "Entente de License Ouverte de Statistique Canada"
 
 otherIds: 
   - "scancode:scola-fr"

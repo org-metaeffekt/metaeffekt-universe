@@ -6,6 +6,9 @@ canonicalName: "BSD 5-Clause License (copyright holder variant)"
 category: "BSD"
 shortName: "BSD-5-Clause-copyright-holder"
 
+openCoDEStatus: "(approved)"
+openCoDESimilarLicenseId: "BSD-5-Clause"
+
 alternativeNames:
   - "IAIK License"
   - "RELAXNG License"

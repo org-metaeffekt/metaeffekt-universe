@@ -3,7 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Matrix Template Library License"
-category: "MTLL"
+category: "Matrix"
+shortName: "Matrix-Template-Library"
 spdxIdentifier: "MTLL"
 
 canonicalNameHistory:
@@ -15,6 +16,8 @@ alternativeNames:
   - "MTL License"
   - "MTL LICENSE"
   - "Software License for MTL"
+  - "License: Matrix Template Library"
+  - "licensed under Matrix Template Library"
 
 otherIds: 
   - "scancode:mtll"

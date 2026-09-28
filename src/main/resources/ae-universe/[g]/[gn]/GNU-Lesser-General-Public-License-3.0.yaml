@@ -73,7 +73,14 @@ alternativeNames:
   - "https://www.gnu.org/licenses/lgpl-3.0"
   - "http://www.gnu.org/licenses/lgpl-3.0"
   - "http://www.gnu.org/licenses/lgpl-3.0.txt"
+  - "https://www.gnu.org/copyleft/lesser.txt"
+  - "http://www.gnu.org/copyleft/lesser.txt"
+  - "https://www.gnu.org/copyleft/lesser.html"
+  - "http://www.gnu.org/copyleft/lesser.html"
   - "https://www.gnu.org/licenses/lgpl.txt"
+  - "http://www.gnu.org/licenses/lgpl.txt"
+  - "https://www.gnu.org/licenses/lgpl.html"
+  - "http://www.gnu.org/licenses/lgpl.html"
 
 otherIds: 
   - "scancode:lgpl-3.0"
