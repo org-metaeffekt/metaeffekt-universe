@@ -10,8 +10,8 @@ alternativeNames:
   - "http://cvs.windowmaker.org/co.php/wm/COPYING.WTFPL"
   - "http://hg.windowmaker.info/wmaker/file/0a3a3e370483/COPYING.WTFPL"
   - "do What The Fuck you want to Public License"
-  - "Do What The F\*ck You Want To Public License"
-  - "Do What The Fuck You Want To Public License v1 (WTFPL 1)"
+  - "Do What The F\\*ck You Want To Public License"
+  - "Do What The Fuck You Want To Public License v1"
   - "WTFPL 1.0"
 
 otherIds: 
