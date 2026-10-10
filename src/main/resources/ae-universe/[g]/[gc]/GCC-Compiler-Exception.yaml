@@ -1,0 +1,18 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "GCC Compiler Exception"
+category: "GCC Compiler Exception"
+shortName: "GCC-Compiler-Exception"
+
+canonicalNameHistory:
+  - "GCC Compiler Exception 2.0"
+
+type: "exception"
+
+alternativeNames:
+  - "gcc-compiler-exception-2.0"
+
+otherIds: 
+  - "scancode:gcc-compiler-exception-2.0"

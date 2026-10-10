@@ -1,0 +1,18 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "BSD 2-Clause License (variant 004)"
+category: "BSD"
+shortName: "BSD-2-Clause-004"
+
+canonicalNameHistory:
+  - "BSD 2-Clause License Var004"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "svndiff License"
+
+otherIds: 
+  - "scancode:svndiff"

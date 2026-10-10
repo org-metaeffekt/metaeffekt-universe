@@ -1,0 +1,20 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "SIL Open Font License 1.1 (reserved font name)"
+category: "OFL"
+shortName: "SIL-OFL-1.1-RFN"
+spdxIdentifier: "OFL-1.1-RFN"
+
+canonicalNameHistory:
+  - "SIL Open Font License 1.1 (with Reserved Font Name; variant 01)"
+
+openCoDEStatus: "approved"
+
+osiStatus: "approved"
+osiCategory: "special purpose"
+
+otherIds: 
+  - "scancode:ofl-1.1-rfn"
+  - "osi:OFL-1.1"

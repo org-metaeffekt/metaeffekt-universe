@@ -1,0 +1,23 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Linking Exception (LGPL; variant 007)"
+category: "LGPL Linking Exception"
+shortName: "Linking-Exception-LGPL-007"
+
+canonicalNameHistory:
+  - "Spell Checker Exception (LGPL)"
+
+type: "exception"
+
+alternativeNames:
+  - "Spell-Checker exception to LGPL 2.1 or later"
+  - "Spell-Checker Exception (LGPL-2.1+)"
+  - "Spell-Checker-Exception-LGPL-2.1+"
+  - "spell-checker-exception-lgpl-2.1-plus"
+  - "Spell-Checker-Exception-LGPL-2.1-plus"
+  - "Spell-Checker Exception LGPL"
+
+otherIds: 
+  - "scancode:spell-checker-exception-lgpl-2.1-plus"

@@ -1,0 +1,21 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Beerware License"
+category: "Beerware"
+spdxIdentifier: "Beerware"
+
+openCoDEStatus: "approved"
+
+osiStatus: "not submitted"
+
+alternativeNames:
+  - "Beerware"
+  - "BEERWARE"
+  - "beer-ware"
+  - "Beer-Ware License"
+
+otherIds: 
+  - "scancode:beerware"
+  - "fedora:Beerware"

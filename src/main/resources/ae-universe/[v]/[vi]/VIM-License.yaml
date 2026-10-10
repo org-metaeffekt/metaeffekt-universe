@@ -1,0 +1,19 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "VIM License"
+category: "VIM"
+spdxIdentifier: "Vim"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "VIM LICENSE"
+  - "vim License"
+  - "vim license"
+  - "VIM licnese"
+  - "Vim License"
+
+otherIds: 
+  - "scancode:vim"

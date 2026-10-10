@@ -1,0 +1,20 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "BSD 4-Clause License (UC)"
+category: "BSD"
+spdxIdentifier: "BSD-4-Clause-UC"
+
+canonicalNameHistory:
+  - "BSD-4-Clause (University of California-Specific)"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "BSD-4-Clause-UC"
+  - "BSD-4-Clause (University of California-Specific)"
+  - "BSD-Original-UC"
+
+otherIds: 
+  - "scancode:bsd-original-uc"

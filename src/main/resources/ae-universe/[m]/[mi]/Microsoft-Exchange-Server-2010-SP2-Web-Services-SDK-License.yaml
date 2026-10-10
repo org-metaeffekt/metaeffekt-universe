@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Microsoft Exchange Server 2010 SP2 Web Services SDK License"
+category: "Microsoft Exchange Server"
+shortName: "MS-Exchange-Server-2010-SP2-WS-SDK"
+
+canonicalNameHistory:
+  - "Microsoft Exchange Server 2010 SP2 Web Services SDK"
+
+alternativeNames:
+  - "Microsoft Exchange Server 2010 SP2 Web Services SDK"
+
+otherIds: 
+  - "scancode:ms-exchange-server-2010-sp2-sdk"

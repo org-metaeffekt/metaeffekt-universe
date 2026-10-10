@@ -1,0 +1,18 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "HTML Tidy License"
+category: "Tidy"
+spdxIdentifier: "HTMLTIDY"
+
+canonicalNameHistory:
+  - "Tidy License"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "Tidy License"
+
+otherIds: 
+  - "scancode:tidy"

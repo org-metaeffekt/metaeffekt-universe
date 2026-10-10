@@ -1,0 +1,17 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "BSD 1-Clause License (build system)"
+category: "BSD"
+shortName: "BSD-1-Clause-Build"
+
+canonicalNameHistory:
+  - "BSD 1-Clause Build System License"
+
+alternativeNames:
+  - "BSD 1-Clause Build System License"
+  - "bsd-1-clause-build"
+
+otherIds: 
+  - "scancode:bsd-1-clause-build"

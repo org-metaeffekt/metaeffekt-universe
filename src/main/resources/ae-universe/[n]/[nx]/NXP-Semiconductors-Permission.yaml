@@ -1,0 +1,13 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "NXP Semiconductors Permission"
+category: "NXP Semiconductors"
+shortName: "NXP-Semiconductors-Permission"
+
+canonicalNameHistory:
+  - "NXP Microcontroller Permission"
+
+otherIds: 
+  - "scancode:nxp-microcontroller-proprietary"

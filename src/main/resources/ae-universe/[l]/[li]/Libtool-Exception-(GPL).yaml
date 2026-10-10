@@ -1,0 +1,19 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Libtool Exception (GPL)"
+category: "GPL Libtool Exception"
+shortName: "Libtool-Exception-GPL"
+spdxIdentifier: "Libtool-exception"
+
+canonicalNameHistory:
+  - "Libtool Exception"
+
+type: "exception"
+
+alternativeNames:
+  - "libtool-exception"
+
+otherIds: 
+  - "scancode:libtool-exception-2.0"

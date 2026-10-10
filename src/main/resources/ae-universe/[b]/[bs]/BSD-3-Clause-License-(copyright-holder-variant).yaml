@@ -1,0 +1,21 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "BSD 3-Clause License (copyright holder variant)"
+category: "BSD"
+shortName: "BSD-3-Clause-copyright-holder"
+
+canonicalNameHistory:
+  - "BSD 3-Clause License (copyright variant)"
+  - "BSD 3-Clause License (copyright holder  variant)"
+  - "BSD 3-Clause License (NumPy)"
+
+openCoDEStatus: "(approved)"
+openCoDESimilarLicenseId: "BSD-3-Clause"
+
+alternativeNames:
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "Modified BSD (https://asm.ow2.io/license.html)"
+  - "Release 10 of PCRE2 is distributed under the terms of the \"BSD\" licence, as specified below"
+

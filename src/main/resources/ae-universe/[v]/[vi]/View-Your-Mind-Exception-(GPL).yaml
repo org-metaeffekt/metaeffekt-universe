@@ -1,0 +1,15 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "View Your Mind Exception (GPL)"
+category: "View Your Mind Exception"
+shortName: "VYM-Exception-GPL"
+
+type: "exception"
+
+alternativeNames:
+  - "VYM - View Your Mind"
+
+otherIds: 
+  - "scancode:vym-exception-2.0"

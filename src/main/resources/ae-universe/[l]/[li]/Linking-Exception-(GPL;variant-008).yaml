@@ -1,0 +1,19 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Linking Exception (GPL; variant 008)"
+category: "GPL Linking Exception"
+shortName: "Linking-Exception-GPL-008"
+
+canonicalNameHistory:
+  - "Avisynth Linking Exception"
+
+type: "exception"
+
+alternativeNames:
+  - "avisynth-linking-exception"
+  - "Avisynth Linking Exception"
+
+otherIds: 
+  - "scancode:avisynth-linking-exception"

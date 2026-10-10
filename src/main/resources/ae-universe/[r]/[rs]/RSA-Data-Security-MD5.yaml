@@ -1,0 +1,15 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "RSA Data Security MD5"
+category: "RSA Data Security"
+spdxIdentifier: "RSA-MD"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "RSA Message-Digest License (MD5)"
+
+otherIds: 
+  - "scancode:rsa-md5"

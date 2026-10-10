@@ -1,0 +1,18 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Permission Terms (Sun Source)"
+category: "Permission"
+shortName: "PT-Sun-Source"
+
+canonicalNameHistory:
+  - "Permission Terms (SUN)"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "Permission Terms (SUN)"
+
+otherIds: 
+  - "scancode:sun-source"

@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Redistribution Terms (variant 022)"
+category: "RT"
+shortName: "RT-Var022"
+
+canonicalNameHistory:
+  - "BSD Artwork License"
+
+alternativeNames:
+  - "bsd-artwork"
+
+otherIds: 
+  - "scancode:bsd-artwork"

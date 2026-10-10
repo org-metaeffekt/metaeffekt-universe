@@ -1,0 +1,15 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Permission Terms (ntp lucent)"
+category: "Permission"
+shortName: "PT-ntp-lucent"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "Permission Terms (ntp lucent)"
+
+otherIds: 
+  - "scancode:x11-lucent-variant"

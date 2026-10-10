@@ -1,0 +1,18 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Linking Exception (Qt)"
+category: "Linking Exception"
+shortName: "Linking-Exception-Qt"
+
+canonicalNameHistory:
+  - "Qt KDE Linking Exception"
+
+type: "exception"
+
+alternativeNames:
+  - "qt-kde-linking-exception"
+
+otherIds: 
+  - "scancode:qt-kde-linking-exception"

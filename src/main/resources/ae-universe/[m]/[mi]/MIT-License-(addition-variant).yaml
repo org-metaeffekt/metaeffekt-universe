@@ -1,0 +1,21 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "MIT License (addition variant)"
+category: "MIT"
+spdxIdentifier: "MIT-Wu"
+
+canonicalNameHistory:
+  - "MIT Addition License"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "See \"LICENSE-BigInteger\" for details"
+  - "mit-addition"
+  - "MIT Tom Wu Variant"
+  - "MIT Addition License"
+
+otherIds: 
+  - "scancode:mit-addition"

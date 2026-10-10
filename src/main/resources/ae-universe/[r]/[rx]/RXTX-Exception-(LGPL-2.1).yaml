@@ -1,0 +1,21 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "RXTX Exception (LGPL-2.1)"
+category: "RXTX Exception"
+shortName: "RXTX-Exception-LGPL-2.1"
+
+canonicalNameHistory:
+  - "RXTX exception to LGPL 2.1"
+  - "RXTX Exception (LGPL 2.1)"
+
+type: "exception"
+
+alternativeNames:
+  - "RXTX exception to LGPL 2.1"
+  - "RXTX Exception to LGPL 2.1 License"
+  - "RXTX License v 2.1"
+
+otherIds: 
+  - "scancode:rxtx-exception-lgpl-2.1"

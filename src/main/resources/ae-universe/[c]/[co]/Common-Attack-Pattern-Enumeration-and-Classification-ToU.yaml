@@ -1,0 +1,14 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Common Attack Pattern Enumeration and Classification ToU"
+category: "CAPEC ToU"
+shortName: "CAPEC-ToU"
+spdxIdentifier: "CAPEC-tou"
+
+alternativeNames:
+  - "Common Attack Pattern Enumeration and Classification ToU"
+
+otherIds: 
+  - "scancode:capec-tou"

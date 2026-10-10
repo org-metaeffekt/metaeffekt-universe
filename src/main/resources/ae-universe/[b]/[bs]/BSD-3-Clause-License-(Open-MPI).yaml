@@ -1,0 +1,20 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "BSD 3-Clause License (Open MPI)"
+category: "BSD"
+spdxIdentifier: "BSD-3-Clause-Open-MPI"
+
+openCoDEStatus: "approved"
+
+osiStatus: "approved"
+osiCategory: "other/miscellaneous"
+
+alternativeNames:
+  - "BSD-3-Clause-Open-MPI"
+  - "BSD 3-Clause Open MPI variant"
+
+otherIds: 
+  - "scancode:bsd-3-clause-open-mpi"
+  - "osi:BSD-3-Clause-Open-MPI"

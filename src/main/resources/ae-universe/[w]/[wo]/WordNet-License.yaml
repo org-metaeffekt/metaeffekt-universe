@@ -1,0 +1,22 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "WordNet License"
+category: "WordNet License"
+spdxIdentifier: "WordNet"
+
+canonicalNameHistory:
+  - "WordNet License (undefinded)"
+  - "WordNet License 1.6"
+
+openCoDEStatus: "approved"
+
+osiStatus: "approved"
+
+alternativeNames:
+  - "Wordnet License"
+
+otherIds: 
+  - "scancode:wordnet"
+  - "osi:WordNet"

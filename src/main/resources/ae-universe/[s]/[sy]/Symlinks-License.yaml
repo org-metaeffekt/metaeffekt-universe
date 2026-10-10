@@ -1,0 +1,17 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Symlinks License"
+category: "Symlinks"
+spdxIdentifier: "Symlinks"
+
+canonicalNameHistory:
+  - "Symlinks Clarification License"
+
+alternativeNames:
+  - "Symlinks Clarification License"
+  - "Symlinks License"
+
+otherIds: 
+  - "scancode:symlinks"

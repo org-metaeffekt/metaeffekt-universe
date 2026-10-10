@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "BSD 3-Clause License (without binary clause; variant 005)"
+category: "BSD"
+shortName: "BSD-3-Clause-without-binary-005"
+
+canonicalNameHistory:
+  - "BSD 3-Clause License (Atmel)"
+
+alternativeNames:
+  - "bsd-atmel"
+
+otherIds: 
+  - "scancode:bsd-atmel"

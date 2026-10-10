@@ -1,0 +1,18 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "AutoOpts Exception (GPL)"
+category: "GPL AutoOpts Exception"
+shortName: "AutoOpts-Exception-GPL"
+
+canonicalNameHistory:
+  - "AutoOpts Exception GPL 2.0"
+
+type: "exception"
+
+alternativeNames:
+  - "autoopts-exception-2.0"
+
+otherIds: 
+  - "scancode:autoopts-exception-2.0"

@@ -1,0 +1,14 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Permission Terms (Carnegie Mellon)"
+category: "Permission"
+shortName: "PT-Carnegie-Mellon"
+
+alternativeNames:
+  - "Carnegie Mellon Template License"
+  - "Carnegie Mellon Computing Services License"
+
+otherIds: 
+  - "scancode:cmu-template"

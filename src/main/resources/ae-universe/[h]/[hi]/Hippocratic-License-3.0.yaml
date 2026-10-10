@@ -1,0 +1,19 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Hippocratic License 3.0"
+category: "Hippocratic"
+shortName: "Hippocratic-3.0"
+spdxIdentifier: "Hippocratic-3.0-core"
+
+alternativeNames:
+  - "Hippocratic License 3.0"
+  - "Hippocratic-3.0"
+  - "Hippocratic License Version 3.0"
+  - "Hippocratic License version 3.0"
+  - "HIPPOCRATIC LICENSE Version 3.0"
+  - "https://firstdonoharm.dev/version/3/0/core.txt"
+
+otherIds: 
+  - "scancode:hippocratic-3.0"

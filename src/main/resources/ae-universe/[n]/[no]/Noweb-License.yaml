@@ -1,0 +1,20 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Noweb License"
+category: "Noweb"
+spdxIdentifier: "Noweb"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "Noweb License"
+  - "NOWEB LICENSE"
+  - "NOWEB License"
+  - "Noweb is copyright"
+  - "Noweb is protected by copyright"
+
+otherIds: 
+  - "scancode:noweb"
+  - "fedora:Noweb"

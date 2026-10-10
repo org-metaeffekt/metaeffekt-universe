@@ -1,0 +1,25 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "BSD 2-Clause License (patent)"
+category: "BSD Patent"
+spdxIdentifier: "BSD-2-Clause-Patent"
+
+canonicalNameHistory:
+  - "BSD 2-Clause Patent License"
+
+openCoDEStatus: "approved"
+
+osiStatus: "approved"
+osiCategory: "special purpose"
+
+alternativeNames:
+  - "BSD 2-Clause Patent License"
+  - "BSD-2-Clause-Patent"
+  - "BSD-2-Clause Plus Patent"
+
+otherIds: 
+  - "scancode:bsd-plus-patent"
+  - "osi:bsd-2-clause-patent"
+  - "osi-spdx:BSD-2-Clause-Patent"

@@ -1,0 +1,13 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "QualcommAtheros Firmware License"
+category: "Firmware"
+shortName: "QualcommAtheros-Firmware"
+
+alternativeNames:
+  - "QualcommAtheros Firmware License"
+
+otherIds: 
+  - "scancode:qca-linux-firmware"

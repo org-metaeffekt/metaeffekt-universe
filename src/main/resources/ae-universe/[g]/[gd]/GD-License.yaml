@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "GD License"
+category: "GD"
+spdxIdentifier: "GD"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "GD Graphics (Draw) Library License"
+  - "libgd License 2018"
+
+otherIds: 
+  - "scancode:libgd-2018"

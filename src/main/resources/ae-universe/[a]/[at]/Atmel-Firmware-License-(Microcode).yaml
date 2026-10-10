@@ -1,0 +1,13 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Atmel Firmware License (Microcode)"
+category: "Firmware"
+shortName: "Atmel-Firmware-Microcode"
+
+alternativeNames:
+  - "Atmel Firmware License (Microcode)"
+
+otherIds: 
+  - "scancode:atmel-firmware"

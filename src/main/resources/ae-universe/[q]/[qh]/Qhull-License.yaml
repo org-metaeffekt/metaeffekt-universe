@@ -1,0 +1,20 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Qhull License"
+category: "Qhull License"
+spdxIdentifier: "Qhull"
+
+canonicalNameHistory:
+  - "Qhull"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "Qhull License"
+  - "www.qhull.org"
+
+otherIds: 
+  - "scancode:qhull"
+  - "fedora:Qhull"

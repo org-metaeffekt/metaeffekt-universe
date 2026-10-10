@@ -1,0 +1,17 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Common Weakness Enumeration License"
+category: "CWE"
+shortName: "CWE-ToU"
+
+canonicalNameHistory:
+  - "Common Weakness Enumeration ToU License"
+  - "Common Weaness Enumeration ToU License"
+
+alternativeNames:
+  - "Common Weakness Enumeration ToU License"
+
+otherIds: 
+  - "scancode:cwe-tou"

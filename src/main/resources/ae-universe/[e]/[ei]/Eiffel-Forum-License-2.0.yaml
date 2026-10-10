@@ -1,0 +1,23 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Eiffel Forum License 2.0"
+category: "EFL"
+spdxIdentifier: "EFL-2.0"
+
+openCoDEStatus: "approved"
+
+osiStatus: "approved"
+osiCategory: "redundant with more popular"
+
+alternativeNames:
+  - "EFL, Version 2.0"
+  - "EFL 2.0"
+  - "EFL-2.0"
+  - "Eiffel Forum License, version 2"
+  - "Eiffel Forum License v2.0"
+
+otherIds: 
+  - "scancode:efl-2.0"
+  - "osi:EFL-2.0"

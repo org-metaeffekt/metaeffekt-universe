@@ -1,0 +1,22 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "MIT License (feh advertising)"
+category: "MIT"
+shortName: "MIT-feh-advertising"
+spdxIdentifier: "MIT-feh"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "MIT feh"
+  - "MIT FEH"
+  - "MIT-feh"
+  - "MIT-FEH"
+  - "feh License"
+  - "MIT Acknowledgment License"
+
+otherIds: 
+  - "scancode:mit-ack"
+  - "fedora:MIT#feh"

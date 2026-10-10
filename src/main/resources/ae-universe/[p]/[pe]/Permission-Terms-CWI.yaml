@@ -1,0 +1,13 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Permission Terms CWI"
+category: "Permission"
+shortName: "PT-CWI"
+
+openCoDEStatus: "(approved)"
+openCoDESimilarLicenseId: "MIT-CMU"
+
+otherIds: 
+  - "scancode:cmu-uc"

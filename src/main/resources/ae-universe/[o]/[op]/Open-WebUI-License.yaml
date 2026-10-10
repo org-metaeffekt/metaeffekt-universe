@@ -1,0 +1,25 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Open WebUI License"
+category: "Open WebUI"
+shortName: "Open-WebUI"
+spdxIdentifier: "BSD-3-Clause-OpenWebUI"
+
+canonicalNameHistory:
+  - "BSD-3 for OpenWebUI"
+  - "BSD 3-Clause License (OpenWebUI)"
+
+alternativeNames:
+  - "BSD 3-Clause License (OpenWebUI)"
+  - "BSD-3 for OpenWebUI"
+  - "OpenWebUI-BSD"
+  - "BSD-3-Clause-License-OpenWebUI"
+  - "https://github.com/open-webui/open-webui/blob/main/LICENSE"
+  - "BSD-3-Clause-OpenWebUI"
+  - "BSD 3-Clause - OpenWebUI variant"
+  - "Open WebUI License"
+
+otherIds: 
+  - "scancode:open-webui-2025"

@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Microsoft Limited Public License"
+category: "Microsoft Limited Public"
+spdxIdentifier: "MS-LPL"
+
+canonicalNameHistory:
+  - "Microsoft LimitedPublic License"
+
+alternativeNames:
+  - "Microsoft Limited Permissive License"
+
+otherIds: 
+  - "scancode:ms-lpl"

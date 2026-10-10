@@ -1,0 +1,23 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Historical Permission Notice and Disclaimer"
+category: "HPND"
+spdxIdentifier: "HPND"
+
+openCoDEStatus: "approved"
+
+osiStatus: "approved"
+osiCategory: "redundant with more popular"
+
+alternativeNames:
+  - "HPND License"
+  - "Historic Permission Notice and Disclaimer"
+  - "Historical Permission Notice and Disclaimer"
+  - "http://www.opensource.org/licenses/historical.php"
+  - "https://spdx.org/licenses/hpnd"
+
+otherIds: 
+  - "scancode:historical"
+  - "osi:HPND"

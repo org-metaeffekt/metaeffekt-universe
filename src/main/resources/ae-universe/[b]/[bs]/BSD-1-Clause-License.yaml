@@ -1,0 +1,27 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "BSD 1-Clause License"
+category: "BSD"
+spdxIdentifier: "BSD-1-Clause"
+
+canonicalNameHistory:
+  - "BSD 1-Clause License (copyright holder variant)"
+  - "BSD 1-Clause License (copyright variant)"
+
+openCoDEStatus: "approved"
+
+osiStatus: "approved"
+osiCategory: "other/miscellaneous"
+
+alternativeNames:
+  - "BSD 1 Clause"
+  - "BSD 1 CLAUSE"
+  - "BSD-1-Clause"
+  - "BSD-1-CLAUSE"
+  - "BSD-1-clause"
+
+otherIds: 
+  - "scancode:bsd-1-clause"
+  - "osi:BSD-1-Clause"

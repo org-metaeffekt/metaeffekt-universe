@@ -1,0 +1,13 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "CFITSIO License"
+category: "CFITSIO"
+spdxIdentifier: "CFITSIO"
+
+alternativeNames:
+  - "CFITSIO License"
+
+otherIds: 
+  - "scancode:cfitsio"

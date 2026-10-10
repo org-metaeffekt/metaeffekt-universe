@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "BSD 2-Clause License (copyright holder variant)"
+category: "BSD"
+shortName: "BSD-2-Clause-copyright"
+
+canonicalNameHistory:
+  - "BSD 2-Clause License (copyright variant)"
+
+openCoDEStatus: "(approved)"
+openCoDESimilarLicenseId: "BSD-2-Clause"
+
+otherIds: 
+  - "scancode:bsd-2-clause-netbsd"

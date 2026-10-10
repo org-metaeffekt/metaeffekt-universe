@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Ralink Firmware License"
+category: "Firmware"
+shortName: "Ralink-Firmware"
+
+canonicalNameHistory:
+  - "Mediatek Firmware License"
+
+alternativeNames:
+  - "Mediatek Firmware License"
+
+otherIds: 
+  - "scancode:ralink-firmware"

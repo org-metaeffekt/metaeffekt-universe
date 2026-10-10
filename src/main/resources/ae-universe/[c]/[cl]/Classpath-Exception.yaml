@@ -1,0 +1,24 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Classpath Exception"
+category: "Classpath Exception"
+shortName: "Classpath-Exception"
+spdxIdentifier: "Classpath-exception-2.0"
+
+canonicalNameHistory:
+  - "Classpath Exception 2.0"
+
+type: "exception"
+
+alternativeNames:
+  - "Class Path Exception"
+  - "CLASSPATH EXCEPTION"
+  - "Classpath-exception"
+  - "Classpath Exception"
+  - "\"Classpath\" exception"
+
+otherIds: 
+  - "scancode:classpath-exception-2.0"
+  - "fedora:GPL_Classpath_Exception"

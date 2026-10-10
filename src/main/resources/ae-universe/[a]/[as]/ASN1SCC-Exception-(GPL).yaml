@@ -1,0 +1,12 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "ASN1SCC Exception (GPL)"
+category: "ASN1SCC Exception"
+shortName: "ASN1SCC-Exception-GPL"
+
+type: "exception"
+
+otherIds: 
+  - "scancode:asn1cc-exception-gpl-2.0"

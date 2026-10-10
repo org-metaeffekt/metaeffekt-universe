@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Kerberos License"
+category: "Kerberos License"
+shortName: "Kerberos"
+
+openCoDEStatus: "approved"
+
+alternativeNames:
+  - "Kerberos License"
+  - "Kerberos Licence"
+
+otherIds: 
+  - "scancode:kerberos"

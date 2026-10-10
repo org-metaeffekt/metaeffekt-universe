@@ -1,0 +1,22 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Academic Free License 3.0"
+category: "AFL"
+spdxIdentifier: "AFL-3.0"
+
+openCoDEStatus: "approved"
+
+osiStatus: "approved"
+osiCategory: "redundant with more popular"
+
+alternativeNames:
+  - "AFL, Version 3.0"
+  - "AFL, 3.0"
+  - "AFL-3"
+  - "Academic Free License v3.0"
+
+otherIds: 
+  - "scancode:afl-3.0"
+  - "osi:AFL-3.0"

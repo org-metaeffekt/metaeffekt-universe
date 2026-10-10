@@ -1,0 +1,13 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "US Government GeoTransform"
+category: "US Government GeoTransform"
+shortName: "US-Gov-GeoTransform"
+
+alternativeNames:
+  - "US Government GeoTransform"
+
+otherIds: 
+  - "scancode:us-govt-geotranform"

@@ -1,0 +1,116 @@
+# Group K
+
+[3](../[3]/README.md) -
+[4](../[4]/README.md) -
+[a](../[a]/README.md) - 
+[b](../[b]/README.md) - 
+[c](../[c]/README.md) - 
+[d](../[d]/README.md) - 
+[e](../[e]/README.md) - 
+[f](../[f]/README.md) - 
+[g](../[g]/README.md) - 
+[h](../[h]/README.md) - 
+[i](../[i]/README.md) - 
+[j](../[j]/README.md) - 
+[k](../[k]/README.md) - 
+[l](../[l]/README.md) - 
+[m](../[m]/README.md) - 
+[n](../[n]/README.md) - 
+[o](../[o]/README.md) - 
+[p](../[p]/README.md) - 
+[q](../[q]/README.md) - 
+[r](../[r]/README.md) - 
+[s](../[s]/README.md) - 
+[t](../[t]/README.md) - 
+[u](../[u]/README.md) - 
+[v](../[v]/README.md) - 
+[w](../[w]/README.md) - 
+[x](../[x]/README.md) - 
+[y](../[y]/README.md) - 
+[z](../[z]/README.md)
+
+|<sup>Canonical Name</sup>|<sup>Category</sup>|<sup>Short Name</sup>|<sup>SPDX Identifier</sup>|<sup>OSI Status</sup>|<sup>Open CoDE Status</sup>|<sup>ScanCode</sup>|<sup>Matched ScanCode</sup>|<sup>Type</sup>|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|<sup><a name="K-EXAONE-AI-Model-License-Agreement">[K-EXAONE AI Model License Agreement]([ke]/K-EXAONE-AI-Model-License-Agreement.yaml)</a></sup>|<sup>K-EXAONE AI Model</sup>|<sup>K-EXAONE-AI-Model</sup>| | | | |<sup>[fsf-unlimited-no-warranty](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/fsf-unlimited-no-warranty.LICENSE), [proprietary-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.LICENSE), [unknown-license-reference](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kalle-Kaukonen-License">[Kalle Kaukonen License]([ka]/Kalle-Kaukonen-License.yaml)</a></sup>|<sup>Kalle Kaukonen License</sup>|<sup>Kalle-Kaukonen</sup>| | | |<sup>[kalle-kaukonen](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kalle-kaukonen.LICENSE)</sup>|<sup>[kalle-kaukonen](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kalle-kaukonen.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kamu-Modifier-(BSL-1.1)">[Kamu Modifier (BSL-1.1)]([ka]/Kamu-Modifier-(BSL-1.1).yaml)</a></sup>|<sup>Kamu Modifier</sup>|<sup>Kamu-Modifier-BSL-1.1</sup>| | | | |<sup>[apache-2.0](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/apache-2.0.LICENSE), [bsl-1.1](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/bsl-1.1.LICENSE)</sup>|<sup>modifier</sup>|
+|<sup><a name="Kanana-License-Agreement">[Kanana License Agreement]([ka]/Kanana-License-Agreement.yaml)</a></sup>|<sup>Kanana</sup>|<sup>Kanana</sup>| | | | |<sup>[commercial-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commercial-license.LICENSE), [unknown-license-reference](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE), [warranty-disclaimer](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/warranty-disclaimer.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kandilli-Rasathanesi-API-Özel-License-(TR)">[Kandilli Rasathanesi API Özel License (TR)]([ka]/Kandilli-Rasathanesi-API-Özel-License-(TR).yaml)</a></sup>|<sup>Kandilli Rasathanesi API Özel License</sup>|<sup>Kandilli-API-TR</sup>| | | | | |<sup>terms</sup>|
+|<sup><a name="Kani3camp-Terms-of-Use">[Kani3camp Terms of Use]([ka]/Kani3camp-Terms-of-Use.yaml)</a></sup>|<sup>Kani3camp Terms of Use</sup>|<sup>Kani3camp-ToU</sup>| | | | |<sup>[proprietary-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kannel-License">[Kannel License]([ka]/Kannel-License.yaml)</a></sup>|<sup>Kannel</sup>|<sup>Kannel</sup>| |<sup>unclear</sup>| | |<sup>[apache-1.1](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/apache-1.1.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kapivara-Source-Available-License-1.0">[Kapivara Source Available License 1.0]([ka]/Kapivara-Source-Available-License-1.0.yaml)</a></sup>|<sup>Kapivara Source Available License</sup>|<sup>Kapivara-SAL-1.0</sup>| | | |<sup>[kapivara-sal-1.0](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kapivara-sal-1.0.LICENSE)</sup>|<sup>[commercial-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commercial-license.LICENSE), [lumisoft-mail-server](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/lumisoft-mail-server.LICENSE), [proprietary-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.LICENSE), [warranty-disclaimer](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/warranty-disclaimer.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Karl-Peterson-License">[Karl Peterson License]([ka]/Karl-Peterson-License.yaml)</a></sup>|<sup>Karl Peterson License</sup>|<sup>Karl-Peterson</sup>| | | |<sup>[karl-peterson](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/karl-peterson.LICENSE)</sup>|<sup>[karl-peterson](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/karl-peterson.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kastrup-License">[Kastrup License]([ka]/Kastrup-License.yaml)</a></sup>|<sup>Kastrup</sup>|<sup> </sup>|<sup>[Kastrup](https://spdx.org/licenses/Kastrup.html)</sup>| | |<sup>[kastrup](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kastrup.LICENSE)</sup>|<sup>[kastrup](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kastrup.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Katharos-License-0.1.0">[Katharos License 0.1.0]([ka]/Katharos-License-0.1.0.yaml)</a></sup>|<sup>Katharos License</sup>|<sup>Katharos-0.1.0</sup>| | | |<sup>[katharos-0.1.0](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/katharos-0.1.0.LICENSE)</sup>|<sup>[katharos-0.1.0](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/katharos-0.1.0.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Katharos-License-0.2.0">[Katharos License 0.2.0]([ka]/Katharos-License-0.2.0.yaml)</a></sup>|<sup>Katharos License</sup>|<sup>Katharos-0.2.0</sup>| | | |<sup>[katharos-0.2.0](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/katharos-0.2.0.LICENSE)</sup>|<sup>[katharos-0.2.0](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/katharos-0.2.0.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kawaido-License-01-(ZH)">[Kawaido License 01 (ZH)]([ka]/Kawaido-License-01-(ZH).yaml)</a></sup>|<sup>Kawaido License</sup>|<sup>Kawaido-01-ZH</sup>| | | | | |<sup>terms</sup>|
+|<sup><a name="KDE-accepted-Modifier-(GPL-3.0+)">[KDE accepted Modifier (GPL-3.0+)]([kd]/KDE-accepted-Modifier-(GPL-3.0+).yaml)</a></sup>|<sup>KDE accepted Modifier</sup>|<sup>KDE-accepted-Modifier-GPL-3.0+</sup>| | | |<sup>[kde-accepted-gpl](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kde-accepted-gpl.LICENSE)</sup>|<sup>[kde-accepted-gpl](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kde-accepted-gpl.LICENSE)</sup>|<sup>modifier</sup>|
+|<sup><a name="KDE-accepted-Modifier-(LGPL-3.0+)">[KDE accepted Modifier (LGPL-3.0+)]([kd]/KDE-accepted-Modifier-(LGPL-3.0+).yaml)</a></sup>|<sup>KDE accepted Modifier</sup>|<sup>KDE-accepted-Modifier-LGPL-3.0+</sup>| | | |<sup>[kde-accepted-lgpl](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kde-accepted-lgpl.LICENSE)</sup>|<sup>[kde-accepted-lgpl](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kde-accepted-lgpl.LICENSE)</sup>|<sup>modifier</sup>|
+|<sup><a name="Keep-Enterprise-Edition-License">[Keep Enterprise Edition License]([ke]/Keep-Enterprise-Edition-License.yaml)</a></sup>|<sup>Keep Enterprise Edition</sup>|<sup>Keep-EE-2024</sup>| | | |<sup>[keep-ee-2024](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/keep-ee-2024.LICENSE)</sup>|<sup>[keep-ee-2024](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/keep-ee-2024.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Keep-Notice-License">[Keep Notice License]([ke]/Keep-Notice-License.yaml)</a></sup>|<sup>Keep Notice License</sup>|<sup>Keep-Notice</sup>|<sup>[atc-game](https://spdx.org/licenses/atc-game.html)</sup>| | | | |<sup>terms</sup>|
+|<sup><a name="Keith-Rule-License">[Keith Rule License]([ke]/Keith-Rule-License.yaml)</a></sup>|<sup>Keith Rule License</sup>|<sup>Keith-Rule</sup>| | | |<sup>[keith-rule](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/keith-rule.LICENSE)</sup>|<sup>[keith-rule](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/keith-rule.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kerberos-License">[Kerberos License]([ke]/Kerberos-License.yaml)</a></sup>|<sup>Kerberos License</sup>|<sup>Kerberos</sup>| | |<sup>approved</sup>|<sup>[kerberos](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kerberos.LICENSE)</sup>|<sup>[kerberos](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kerberos.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kevan-Stannard-Free-Software-License">[Kevan Stannard Free Software License]([ke]/Kevan-Stannard-Free-Software-License.yaml)</a></sup>|<sup>Kevan Stannard Free Software License</sup>|<sup>Kevan-Stannard</sup>| | | |<sup>[kevan-stannard](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kevan-stannard.LICENSE)</sup>|<sup>[kevan-stannard](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kevan-stannard.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kevin-Hartig-Font-License">[Kevin Hartig Font License]([ke]/Kevin-Hartig-Font-License.yaml)</a></sup>|<sup>Kevin Hartig</sup>|<sup>Kevin-Hartig-Font</sup>| | | | |<sup>[ofl-1.1](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/ofl-1.1.LICENSE), [proprietary-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.LICENSE), [unknown-license-reference](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kevlin-Henney-License">[Kevlin Henney License]([ke]/Kevlin-Henney-License.yaml)</a></sup>|<sup>Kevlin Henney License</sup>|<sup> </sup>|<sup>[HPND-Kevlin-Henney](https://spdx.org/licenses/HPND-Kevlin-Henney.html)</sup>| | |<sup>[kevlin-henney](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kevlin-henney.LICENSE)</sup>|<sup>[kevlin-henney](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kevlin-henney.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Keychron-Source-Available-License">[Keychron Source-Available License]([ke]/Keychron-Source-Available-License.yaml)</a></sup>|<sup>Keychron Source-Available License</sup>|<sup>Keychron-SA-License</sup>| | | | |<sup>[proprietary-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Keypirinha-License">[Keypirinha License]([ke]/Keypirinha-License.yaml)</a></sup>|<sup>Keypirinha License</sup>|<sup>keypirinha</sup>| | | |<sup>[keypirinha](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/keypirinha.LICENSE)</sup>|<sup>[keypirinha](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/keypirinha.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="KFQF-Accepted-GPL">[KFQF Accepted GPL]([kf]/KFQF-Accepted-GPL.yaml)</a></sup>|<sup>KFQF Accepted GPL</sup>|<sup>KFQF-Accepted-GPL</sup>| | | |<sup>[kfqf-accepted-gpl](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kfqf-accepted-gpl.LICENSE)</sup>|<sup>[kfqf-accepted-gpl](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kfqf-accepted-gpl.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="KiCad-Libraries-Exception">[KiCad Libraries Exception]([ki]/KiCad-Libraries-Exception.yaml)</a></sup>|<sup>KiCad Libraries Exception</sup>|<sup>KiCad-Libraries-Exception</sup>|<sup>[KiCad-libraries-exception](https://spdx.org/licenses/KiCad-libraries-exception.html)</sup>| | |<sup>[kicad-libraries-exception](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kicad-libraries-exception.LICENSE)</sup>|<sup>[kicad-libraries-exception](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kicad-libraries-exception.LICENSE)</sup>|<sup>exception</sup>|
+|<sup><a name="Kimi-K3-License">[Kimi K3 License]([ki]/Kimi-K3-License.yaml)</a></sup>|<sup>Kimi K3</sup>|<sup>Kimi-K3</sup>| | | | | |<sup>terms</sup>|
+|<sup><a name="Kintinuous-NC-Research-License">[Kintinuous NC Research License]([ki]/Kintinuous-NC-Research-License.yaml)</a></sup>|<sup>Kintinuous NC Research License</sup>|<sup>Kintinuous-Research</sup>| | | | |<sup>[proprietary-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.LICENSE), [unknown-license-reference](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE), [warranty-disclaimer](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/warranty-disclaimer.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kirby-Tools-Plugin-License-Agreement">[Kirby Tools Plugin License Agreement]([ki]/Kirby-Tools-Plugin-License-Agreement.yaml)</a></sup>|<sup>Kirby Tools Plugin License Agreement</sup>|<sup>Kirby-Tools</sup>| | | | |<sup>public-domain-disclaimer OR other-permissive, [unknown-license-reference](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Knuth-CTAN-License">[Knuth CTAN License]([kn]/Knuth-CTAN-License.yaml)</a></sup>|<sup>Knuth CTAN</sup>|<sup> </sup>|<sup>[Knuth-CTAN](https://spdx.org/licenses/Knuth-CTAN.html)</sup>| | |<sup>[knuth-ctan](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/knuth-ctan.LICENSE)</sup>|<sup>[knuth-ctan](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/knuth-ctan.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Knuth-License">[Knuth License]([kn]/Knuth-License.yaml)</a></sup>|<sup>Knuth</sup>|<sup>Knuth</sup>| | | | | |<sup>terms</sup>|
+|<sup><a name="Komorebi-License-2.0.0">[Komorebi License 2.0.0]([ko]/Komorebi-License-2.0.0.yaml)</a></sup>|<sup>Komorebi License</sup>|<sup>Komorebi-2.0.0</sup>| | | | |<sup>[polyform-internal-use-1.0.0](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/polyform-internal-use-1.0.0.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Korea-Open-Government-License-(Type-1)">[Korea Open Government License (Type 1)]([ko]/Korea-Open-Government-License-(Type-1).yaml)</a></sup>|<sup>Korea Open Government License</sup>|<sup>KOGL-BY</sup>| | | | | |<sup>terms</sup>|
+|<sup><a name="Korea-Open-Government-License-(Type-2)">[Korea Open Government License (Type 2)]([ko]/Korea-Open-Government-License-(Type-2).yaml)</a></sup>|<sup>Korea Open Government License</sup>|<sup>KOGL-NC</sup>| | | | | |<sup>terms</sup>|
+|<sup><a name="Korea-Open-Government-License-(Type-3)">[Korea Open Government License (Type 3)]([ko]/Korea-Open-Government-License-(Type-3).yaml)</a></sup>|<sup>Korea Open Government License</sup>|<sup>KOGL-ND</sup>| | | | | |<sup>terms</sup>|
+|<sup><a name="Korea-Open-Government-License-(Type-4)">[Korea Open Government License (Type 4)]([ko]/Korea-Open-Government-License-(Type-4).yaml)</a></sup>|<sup>Korea Open Government License</sup>|<sup>KOGL-ALL</sup>| | | | | |<sup>terms</sup>|
+|<sup><a name="Korean-Manpage-Project-License">[Korean Manpage Project License]([ko]/Korean-Manpage-Project-License.yaml)</a></sup>|<sup>Korean Manpage Project License</sup>|<sup>ko-man-page</sup>| | | |<sup>[ko-man-page](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/ko-man-page.LICENSE)</sup>|<sup>[ko-man-page](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/ko-man-page.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="KREA-2-Community-License-Agreement">[KREA 2 Community License Agreement]([kr]/KREA-2-Community-License-Agreement.yaml)</a></sup>|<sup>KREA Community</sup>|<sup>KREA-2-Community</sup>| | | | |<sup>[commercial-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commercial-license.LICENSE), [proprietary-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.LICENSE), [unknown-license-reference](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE), [warranty-disclaimer](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/warranty-disclaimer.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kreative-Software-Relay-Fonts-Free-Use-License-1.2f">[Kreative Software Relay Fonts Free Use License 1.2f]([kr]/Kreative-Software-Relay-Fonts-Free-Use-License-1.2f.yaml)</a></sup>|<sup>Kreative Software Relay Fonts Free Use License</sup>|<sup>Kreative-Relay-Fonts-Free-Use-1.2f</sup>| | | |<sup>[kreative-relay-fonts-free-use-1.2f](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kreative-relay-fonts-free-use-1.2f.LICENSE)</sup>|<sup>[kreative-relay-fonts-free-use-1.2f](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kreative-relay-fonts-free-use-1.2f.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kritanta-Dragon-License-1">[Kritanta Dragon License 1]([kr]/Kritanta-Dragon-License-1.yaml)</a></sup>|<sup>Kritanta Dragon License</sup>|<sup>Kritanta-Dragon-1</sup>| | | | | |<sup>terms</sup>|
+|<sup><a name="Krutrim-Community-License-Agreement-1.0">[Krutrim Community License Agreement 1.0]([kr]/Krutrim-Community-License-Agreement-1.0.yaml)</a></sup>|<sup>Krutrim Community</sup>|<sup>Krutrim Community-1.0</sup>| | | | |<sup>[commercial-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commercial-license.LICENSE), [other-permissive](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/other-permissive.LICENSE), [proprietary-license](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.LICENSE), [unknown-license-reference](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="KubeSphere-Open-Source-Modifier-(Apache-2.0)">[KubeSphere Open Source Modifier (Apache-2.0)]([ku]/KubeSphere-Open-Source-Modifier-(Apache-2.0).yaml)</a></sup>|<sup>KubeSphere Open Source Modifier</sup>|<sup>KubeSphere-OS-Modifier-Apache-2.0</sup>| | | |<sup>[kubesphere-osl-2024](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kubesphere-osl-2024.LICENSE)</sup>|<sup>[kubesphere-osl-2024](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kubesphere-osl-2024.LICENSE)</sup>|<sup>modifier</sup>|
+|<sup><a name="Kumar-Robotics-License">[Kumar Robotics License]([ku]/Kumar-Robotics-License.yaml)</a></sup>|<sup>Kumar Robotics License</sup>|<sup>Kumar-Robotics</sup>| | | |<sup>[kumar-robotics](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kumar-robotics.LICENSE)</sup>|<sup>[kumar-robotics](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/kumar-robotics.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kurrent-License-1">[Kurrent License 1]([ku]/Kurrent-License-1.yaml)</a></sup>|<sup>Kurrent License</sup>|<sup>Kurrent-1</sup>| | | | |<sup>[elastic-license-v2](https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/elastic-license-v2.LICENSE)</sup>|<sup>terms</sup>|
+|<sup><a name="Kwetsbaarheden-License">[Kwetsbaarheden License]([kw]/Kwetsbaarheden-License.yaml)</a></sup>|<sup>Kwetsbaarheden License</sup>|<sup>Kwetsbaarheden-License</sup>| | | | | |<sup>terms</sup>|
+
+[3](../[3]/README.md) -
+[4](../[4]/README.md) -
+[a](../[a]/README.md) - 
+[b](../[b]/README.md) - 
+[c](../[c]/README.md) - 
+[d](../[d]/README.md) - 
+[e](../[e]/README.md) - 
+[f](../[f]/README.md) - 
+[g](../[g]/README.md) - 
+[h](../[h]/README.md) - 
+[i](../[i]/README.md) - 
+[j](../[j]/README.md) - 
+[k](../[k]/README.md) - 
+[l](../[l]/README.md) - 
+[m](../[m]/README.md) - 
+[n](../[n]/README.md) - 
+[o](../[o]/README.md) - 
+[p](../[p]/README.md) - 
+[q](../[q]/README.md) - 
+[r](../[r]/README.md) - 
+[s](../[s]/README.md) - 
+[t](../[t]/README.md) - 
+[u](../[u]/README.md) - 
+[v](../[v]/README.md) - 
+[w](../[w]/README.md) - 
+[x](../[x]/README.md) - 
+[y](../[y]/README.md) - 
+[z](../[z]/README.md)
+
+
+This is generated content.
+
+All company names, organization names, license names, and product names mentioned in this documentation are used for identification purposes only.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.

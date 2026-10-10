@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Microsoft EULA (Windows Script Host)"
+category: "Microsoft EULA Windows Script Host"
+shortName: "MS-EULA-Win-Script-Host"
+
+canonicalNameHistory:
+  - "Microsoft EULA for Windows Script Host"
+
+alternativeNames:
+  - "Microsoft EULA for Windows Script Host"
+
+otherIds: 
+  - "scancode:ms-eula-win-script-host"

@@ -1,0 +1,16 @@
+# Generated content
+# SPDX-License-Identifier: CC-BY-4.0
+# SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
+
+canonicalName: "Redistribution Terms (derivative work)"
+category: "RT"
+shortName: "RT-derivative-work"
+
+canonicalNameHistory:
+  - "BSD 3-Clause License (Tcpdump Group)"
+
+alternativeNames:
+  - "bsd-new-derivative"
+
+otherIds: 
+  - "scancode:bsd-new-derivative"
