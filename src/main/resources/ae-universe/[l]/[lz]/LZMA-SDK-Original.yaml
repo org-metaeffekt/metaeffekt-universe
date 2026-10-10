@@ -6,5 +6,8 @@ canonicalName: "LZMA SDK Original"
 category: "LZMA SDK Original"
 shortName: "LZMA-SDK-Original"
 
+alternativeNames:
+  - "LZMA SDK Original"
+
 otherIds: 
   - "scancode:lzma-sdk-original"
