@@ -8,6 +8,10 @@ spdxIdentifier: "Unicode-DFS-2016"
 
 openCoDEStatus: "approved"
 
+osiStatus: "approved"
+osiSupersededById: "Unicode License 3.0"
+osiCategory: "superseded"
+
 alternativeNames:
   - "Unicode DFS, Version 2016"
   - "Unicode DFS 2016"

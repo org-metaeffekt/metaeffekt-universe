@@ -9,7 +9,8 @@ spdxIdentifier: "Unicode-DFS-2015"
 openCoDEStatus: "approved"
 
 osiStatus: "approved"
-osiCategory: "special purpose"
+osiSupersededById: "Unicode License 3.0"
+osiCategory: "superseded"
 
 alternativeNames:
   - "Unicode DFS, Version 2015"
