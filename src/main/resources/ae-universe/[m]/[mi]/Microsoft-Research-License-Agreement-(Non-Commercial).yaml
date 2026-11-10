@@ -2,9 +2,12 @@
 # SPDX-License-Identifier: CC-BY-4.0
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
-canonicalName: "Microsoft Research License Agreement (Non-Commercial)"
-category: "Microsoft Research License Agreement"
-shortName: "MSR-LA"
+canonicalName: "Microsoft Research License Agreement (non-commercial)"
+category: "Microsoft Research"
+shortName: "MS-Research-NC"
+
+canonicalNameHistory:
+  - "Microsoft Research License Agreement (Non-Commercial)"
 
 alternativeNames:
   - "Microsoft Research License Agreement"

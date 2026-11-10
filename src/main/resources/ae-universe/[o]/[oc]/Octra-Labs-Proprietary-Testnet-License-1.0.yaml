@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Octra Labs Proprietary Testnet License 1.0"
-category: "Octra Labs Proprietary Testnet License"
-shortName: "Octra-Testnet-1.0"
+category: "Octra Labs"
+shortName: "Octra-Labs-Testnet-1.0"
 
 alternativeNames:
   - "Octra-Testnet-1.0"

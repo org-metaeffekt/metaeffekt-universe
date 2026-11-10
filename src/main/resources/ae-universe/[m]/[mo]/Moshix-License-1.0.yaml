@@ -3,10 +3,11 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Moshix License 1.0"
-category: "Moshix License"
-shortName: "MSL-1.0"
+category: "Moshix"
+shortName: "Moshix-1.0"
 
 alternativeNames:
   - "Moshix License"
   - "MSL-1.0"
+  - "Moshix Software License 1.0"
 

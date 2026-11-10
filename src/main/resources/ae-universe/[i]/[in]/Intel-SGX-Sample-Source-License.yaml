@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Intel SGX Sample Source License"
-category: "Intel SGX Sample Source License"
-shortName: "Intel-SGX-Sample"
+category: "Intel SGX"
+shortName: "Intel-SGX-Sample-Source"
 
 alternativeNames:
   - "Intel SGX Sample Source License"

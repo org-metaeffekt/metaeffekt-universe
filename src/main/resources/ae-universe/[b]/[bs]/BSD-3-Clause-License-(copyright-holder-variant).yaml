@@ -10,6 +10,7 @@ canonicalNameHistory:
   - "BSD 3-Clause License (copyright variant)"
   - "BSD 3-Clause License (copyright holder  variant)"
   - "BSD 3-Clause License (NumPy)"
+  - "Provenance License"
 
 openCoDEStatus: "(approved)"
 openCoDESimilarLicenseId: "BSD-3-Clause"

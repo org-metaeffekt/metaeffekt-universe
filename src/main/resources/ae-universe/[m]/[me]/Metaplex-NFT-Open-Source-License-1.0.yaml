@@ -3,10 +3,12 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Metaplex NFT Open Source License 1.0"
-category: "Metaplex NFT Open Source License"
-shortName: "Metaplex-NFT-1.0"
+category: "Metaplex NFT"
+shortName: "Metaplex-NFT-OS-1.0"
 
 alternativeNames:
   - "Metaplex NFT Open Source License"
   - "Metaplex-NFT-1.0"
+  - "METAPLEX(TM) NFT OPEN SOURCE LICENSE"
+  - "METAPLEX NFT OPEN SOURCE LICENSE"
 

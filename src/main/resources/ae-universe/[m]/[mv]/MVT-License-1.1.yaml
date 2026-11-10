@@ -4,7 +4,7 @@
 
 canonicalName: "MVT License 1.1"
 category: "MVT License"
-shortName: "MVT-1.1"
+spdxIdentifier: "MVT-1.1"
 
 otherIds: 
   - "scancode:mvt-1.1"

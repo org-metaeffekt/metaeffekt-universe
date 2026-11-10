@@ -3,11 +3,12 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "CyberSource SDK License Agreement"
-category: "CyberSource SDK License Agreement"
+category: "CyberSource"
 shortName: "CyberSource-SDK"
 
 alternativeNames:
   - "CyberSource SDK License Agreement"
   - "CyberSource-SDK"
   - "CyberSource Software Development Kit (SDK) License Agreement"
+  - "CyberSource Software Development Kit License Agreement"
 

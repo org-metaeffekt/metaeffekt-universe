@@ -3,10 +3,11 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Parse Dashboard License Agreement"
-category: "Parse Dashboard License Agreement"
+category: "Parse Dashboard"
 shortName: "Parse-Dashboard"
 
 alternativeNames:
   - "Parse Dashboard License Agreement"
   - "Parse-Dashboard"
+  - "LICENSE AGREEMENT For Parse Dashboard software"
 

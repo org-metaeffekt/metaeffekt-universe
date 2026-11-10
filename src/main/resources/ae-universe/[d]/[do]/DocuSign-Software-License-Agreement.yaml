@@ -3,10 +3,11 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "DocuSign Software License Agreement"
-category: "DocuSign Software License Agreement"
-shortName: "DocuSign-EULA"
+category: "DocuSign"
+shortName: "DocuSign-SLA"
 
 alternativeNames:
   - "DocuSign Software License Agreement"
   - "DocuSign-EULA"
+  - "DOCUSIGN SOFTWARE LICENSE AGREEMENT"
 

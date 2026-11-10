@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Half-Life 1 SDK License"
-category: "Valve SDK License"
-shortName: "HL1-SDK"
+category: "Half-Life"
+shortName: "HL1-1-SDK"
 
 alternativeNames:
   - "Half-Life 1 SDK License"

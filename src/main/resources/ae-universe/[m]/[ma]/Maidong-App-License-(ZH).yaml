@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Maidong App License (ZH)"
-category: "Maidong App License"
-shortName: "Maidong-ZH"
+category: "Maidong"
+shortName: "Maidong-App-ZH"
 
 alternativeNames:
   - "Maidong App License"

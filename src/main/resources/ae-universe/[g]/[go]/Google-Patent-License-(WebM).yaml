@@ -4,7 +4,7 @@
 
 canonicalName: "Google Patent License (WebM)"
 category: "Google Patent License"
-shortName: "Google-Patent-WebM"
+spdxIdentifier: "Google-Patent-WebM"
 
 openCoDEStatus: "approved"
 

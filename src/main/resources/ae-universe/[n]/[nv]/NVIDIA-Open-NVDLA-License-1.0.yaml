@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "NVIDIA Open NVDLA License 1.0"
-category: "NVIDIA Open NVDLA License"
-shortName: "Open-NVDLA-1.0"
+category: "NVIDIA Open NVDLA"
+shortName: "NVIDIA-Open-NVDLA-1.0"
 
 alternativeNames:
   - "NVIDIA Open NVDLA License and Agreement"

@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "ComputerCraft Public License 1.0.0"
-category: "ComputerCraft Public License"
-shortName: "CCPL-1.0.0"
+category: "ComputerCraft"
+shortName: "ComputerCraft-PL-1.0.0"
 
 alternativeNames:
   - "ComputerCraft Public License"

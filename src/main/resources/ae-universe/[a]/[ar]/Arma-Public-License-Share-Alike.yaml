@@ -3,10 +3,10 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Arma Public License Share Alike"
-category: "Arma Public License"
-shortName: "APL-SA"
+category: "Arma Public"
+shortName: "Arma-Public-SA"
 
 alternativeNames:
-  - "APL-SA"
   - "Arma Public License Share Alike"
+  - "Arma-Public-SA"
 

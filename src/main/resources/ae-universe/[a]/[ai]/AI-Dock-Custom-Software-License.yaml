@@ -3,9 +3,10 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "AI-Dock Custom Software License"
-category: "AI-Dock Custom Software"
-shortName: "AI-Dock"
+category: "AI-Dock"
+shortName: "AI-Dock-Custom"
 
 alternativeNames:
-  - "AI-Dock"
+  - "AI-Dock Custom Software"
+  - "ComfyUI AI-Dock License"
 

@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Convoy Software EULA"
-category: "Convoy Software EULA"
-shortName: "Convoy-EULA"
+category: "Convoy"
+shortName: "Convoy-Software-EULA"
 
 alternativeNames:
   - "Convoy Software End User License Agreement"

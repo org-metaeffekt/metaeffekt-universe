@@ -5,6 +5,7 @@
 canonicalName: "Linking Exception (CGAL)"
 category: "Linking Exception CGAL"
 shortName: "Linking-Exception-CGAL"
+spdxIdentifier: "CGAL-linking-exception"
 
 type: "exception"
 

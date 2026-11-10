@@ -3,9 +3,10 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "IMTB Terms of Use"
-category: "IMTB Terms of Use"
-shortName: "IMTB-TOU"
+category: "IMTB"
+shortName: "IMTB-ToU"
 
 alternativeNames:
   - "IMTB Terms of Use"
+  - "terms of use of the IMTB"
 

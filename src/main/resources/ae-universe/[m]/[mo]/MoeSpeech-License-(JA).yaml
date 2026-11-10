@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "MoeSpeech License (JA)"
-category: "MoeSpeech License"
-shortName: "Moe-Speech-JA"
+category: "MoeSpeech"
+shortName: "MoeSpeech-JA"
 
 alternativeNames:
   - "Moe-Speech-JA"

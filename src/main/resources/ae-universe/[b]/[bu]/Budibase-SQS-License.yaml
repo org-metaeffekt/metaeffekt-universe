@@ -12,3 +12,5 @@ alternativeNames:
   - "SQS-Proprietary-License"
   - "Structured Query Server software"
 
+otherIds: 
+  - "scancode:budibase-sqs-2023"

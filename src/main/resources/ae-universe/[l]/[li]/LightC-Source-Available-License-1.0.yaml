@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "LightC Source Available License 1.0"
-category: "LightC Source Available License"
-shortName: "LightC-1.0"
+category: "LightC"
+shortName: "LightC-SA-1.0"
 
 alternativeNames:
   - "LightC Source Available License"

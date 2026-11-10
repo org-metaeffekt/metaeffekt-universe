@@ -6,3 +6,5 @@ canonicalName: "Intel Research Use License Agreement"
 category: "Intel Research"
 shortName: "Intel-Research-Use"
 
+otherIds: 
+  - "scancode:intel-research-use-2024"

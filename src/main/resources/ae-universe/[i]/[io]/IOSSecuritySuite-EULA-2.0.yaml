@@ -3,11 +3,12 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "IOSSecuritySuite EULA 2.0"
-category: "IOSSecuritySuite EULA"
-shortName: "IOSSecuritySuite-2.0"
+category: "IOSSecuritySuite"
+shortName: "IOSSecuritySuite-EULA-2.0"
 
 alternativeNames:
   - "IOSSecuritySuite End-User License Agreement 2.0"
   - "IOSSecuritySuite-2.0"
   - "IOSSecuritySuite EULA 2.0"
+  - "IOSSecuritySuite v.2.0"
 

@@ -3,10 +3,12 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Nucleus License 1.0"
-category: "Nucleus License"
+category: "Nucleus"
 shortName: "Nucleus-1.0"
 
 alternativeNames:
   - "Nucleus License 1.0"
   - "Nucleus-1.0"
+  - "Nucleus License (GPL-inspired)"
+  - "Nucleus ESP32 License Version 1.0"
 

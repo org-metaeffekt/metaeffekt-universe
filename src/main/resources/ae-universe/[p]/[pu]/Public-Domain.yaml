@@ -34,6 +34,8 @@ alternativeNames:
   - "This software is freely available to the public for use"
   - "Public Domain (Public Domain)"
   - "PUBLIC-DOMAIN"
+  - "Public Domain or legal equivalent"
+  - "The*{.{0,20}}* of*{.{0,40}}* is dedicated to the *{[pP]}*ublic *{[dD]}*omain"
 
 otherIds: 
   - "scancode:public-domain"

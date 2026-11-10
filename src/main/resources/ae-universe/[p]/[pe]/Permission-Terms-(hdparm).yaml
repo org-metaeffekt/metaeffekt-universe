@@ -4,7 +4,7 @@
 
 canonicalName: "Permission Terms (hdparm)"
 category: "Permission"
-shortName: "PT-hdparm"
+spdxIdentifier: "hdparm"
 
 canonicalNameHistory:
   - "Permission Terms (hpdarm)"

@@ -12,9 +12,9 @@ alternativeNames:
   - "Ruby License"
   - "RubyLicense"
   - "under the Ruby"
-  - "under Ruby"
   - "Ruby Distribute License"
   - "Ruby Distribution License"
+  - "Ruby-Curb"
 
 otherIds: 
   - "scancode:ruby"

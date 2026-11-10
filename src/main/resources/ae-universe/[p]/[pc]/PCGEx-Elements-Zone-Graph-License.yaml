@@ -3,11 +3,15 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "PCGEx Elements Zone Graph License"
-category: "PCGEx Elements Zone Graph License"
-shortName: "PCGExElementsZoneGraph-License"
+category: "PCGEx"
+shortName: "PCGEx-Elements-Zone-Graph"
 
 alternativeNames:
   - "PCGEx Elements Zone Graph License"
   - "PCGExElementsZoneGraph-License"
   - "PCGExElementsZoneGraph - Source-Available License"
+  - "PCGExElementsZoneGraph SAL 2026"
+  - "PCGExElementsZoneGraph Source-Available License 2026"
 
+otherIds: 
+  - "scancode:pcgexelementszonegraph-2026"

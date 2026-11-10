@@ -4,7 +4,7 @@
 
 canonicalName: "Unlicense (libwhirlpool)"
 category: "Unlicense"
-shortName: "Unlicense-libwhirlpool"
+spdxIdentifier: "Unlicense-libwhirlpool"
 
 canonicalNameHistory:
   - "Unlicense variant"

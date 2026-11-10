@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Lambda License"
-category: "Lambda License"
-shortName: "Lambda-License"
+category: "Lambda"
+shortName: "Lambda"
 
 alternativeNames:
   - "Lambda License"

@@ -3,10 +3,13 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "Mazmorra EULA"
-category: "Mazmorra EULA"
+category: "Mazmorra"
 shortName: "Mazmorra-EULA"
 
 alternativeNames:
   - "Mazmorra EULA"
   - "Mazmorra-EULA"
+  - "End-User License Agreement of Mazmorra"
+  - "End-User License Agreement (EULA) of Mazmorra"
+  - "EULA of Mazmorra"
 

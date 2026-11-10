@@ -11,3 +11,6 @@ alternativeNames:
   - "NVIDIA-OneWay-Noncommercial-License"
   - "Nvidia Source Code License-NC"
 
+otherIds: 
+  - "scancode:nvidia-1-way-noncommercial"
+  - "scancode:nvidia-source-code-nc-2024"

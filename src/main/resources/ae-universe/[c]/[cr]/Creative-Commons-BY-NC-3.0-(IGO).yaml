@@ -4,7 +4,7 @@
 
 canonicalName: "Creative Commons BY-NC 3.0 (IGO)"
 category: "Creative Commons"
-shortName: "CC-BY-NC-3.0-IGO"
+spdxIdentifier: "CC-BY-NC-3.0-IGO"
 
 alternativeNames:
   - "Creative Commons Attribution-NonCommercial 3.0 IGO"

@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "NVIDIA Isaac Ros Software License 2021"
-category: "NVIDIA Isaac Ros Software License"
+category: "NVIDIA Isaac"
 shortName: "NVIDIA-Isaac-Ros-SL"
 
 alternativeNames:
@@ -12,4 +12,7 @@ alternativeNames:
   - "NVIDIA ISAAC ROS SOFTWARE LICENSE"
   - "NVIDIA Isaac ROS Software License"
   - "NVIDIA Isaac ROS-SL"
+  - "NVIDIA Isaac Ros Software License 2021"
 
+otherIds: 
+  - "scancode:nvidia-isaac-ros-2021"

@@ -3,12 +3,14 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "SAXS Synthetic Dataset Commercial Restricted License 1.0"
-category: "SAXS Synthetic Dataset Commercial Restricted License"
-shortName: "SAXS-Synthetic-Commercial-1.0"
+category: "SAXS Synthetic Dataset"
+shortName: "SAXS-Synthetic-Dataset-Restricted-1.0"
 
 alternativeNames:
   - "saxs-synthetic-commercial-1.0"
   - "SAXS Synthetic Dataset Commercial Restricted License"
+  - "SAXS SYNTHETIC DATASET — COMMERCIAL RESTRICTED LICENSE Version 1.0"
+  - "SAXS SYNTHETIC DATASET COMMERCIAL RESTRICTED LICENSE Version 1.0"
 
 otherIds: 
   - "scancode:saxs-synthetic-commercial-1.0"

@@ -3,8 +3,8 @@
 # SPDX-FileCopyrightText: Copyright © metaeffekt GmbH 2022-2026. All rights reserved.
 
 canonicalName: "DockerWeb Public Source License"
-category: "DockerWeb Public Source License"
-shortName: "DockerWeb"
+category: "DockerWeb"
+shortName: "DockerWeb-Public-Source"
 
 alternativeNames:
   - "DockerWeb Public Source License"
