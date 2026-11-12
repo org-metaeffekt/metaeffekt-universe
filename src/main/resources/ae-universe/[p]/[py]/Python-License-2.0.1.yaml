@@ -12,3 +12,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:python-2.0.1"
+  - "osi-spdx:Python-2.0.1"

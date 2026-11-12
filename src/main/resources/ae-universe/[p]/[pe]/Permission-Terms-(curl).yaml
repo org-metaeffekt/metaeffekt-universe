@@ -18,3 +18,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:curl"
+  - "osi-spdx:curl"

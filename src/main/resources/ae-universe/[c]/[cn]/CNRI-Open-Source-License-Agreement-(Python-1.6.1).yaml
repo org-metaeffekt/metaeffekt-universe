@@ -19,3 +19,4 @@ alternativeNames:
 
 otherIds: 
   - "scancode:cnri-python-1.6.1"
+  - "osi-spdx:CNRI-Python-GPL-Compatible"
